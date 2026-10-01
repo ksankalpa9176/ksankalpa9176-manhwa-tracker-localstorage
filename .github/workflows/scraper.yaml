@@ -1,0 +1,39 @@
+name: ArenaScan Auto-Scraper (Free JSON Storage)
+
+on:
+  schedule:
+    # Runs automatically every 4 hours
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          #cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install beautifulsoup4 requests
+
+      - name: Scrape latest chapters to releases.json
+        run: |
+          python scraper.py 5
+
+      - name: Commit and push updated releases.json
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Scraper"
+          git add releases.json new-titles.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(data): auto-update releases.json with latest ArenaScan chapters [skip ci]" && git push)
