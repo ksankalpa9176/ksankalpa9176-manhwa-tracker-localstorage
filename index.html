@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Manhwa Tracker</title>
+<meta name="description" content="A personal manhwa reading index with automatic chapter and new-series tracking.">
+<script>(()=>{let t;try{t=localStorage.getItem('mt_theme')}catch{}document.documentElement.dataset.theme=t||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')})()</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Geist:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f2f0eb;--surface:#fff;--ink:#14121a;--mute:#625e6b;--edge:#14121a;--accent:#d8343a;--on:#fff;--tone:rgb(20 18 26/.14);--shadow:#14121a;--display:"Black Han Sans","Arial Black",Impact,sans-serif;color-scheme:light}
+[data-theme=dark]{--bg:#0e0d12;--surface:#17151d;--ink:#f4f0e8;--mute:#a29cae;--edge:#3b3748;--accent:#ff5b57;--on:#190d0e;--tone:rgb(244 240 232/.10);--shadow:#000;color-scheme:dark}
+*{box-sizing:border-box;margin:0}
+body{position:relative;background:var(--bg);color:var(--ink);font:400 15px/1.55 Geist,system-ui,sans-serif;min-height:100vh}
+body::before{content:"";position:absolute;left:0;right:0;top:0;height:660px;z-index:-1;pointer-events:none;background-image:radial-gradient(var(--tone) 1.3px,transparent 1.8px);background-size:8px 8px;-webkit-mask-image:radial-gradient(ellipse 75% 100% at 82% 15%,#000,transparent 72%);mask-image:radial-gradient(ellipse 75% 100% at 82% 15%,#000,transparent 72%)}
+button,input{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.wrap{max-width:1080px;margin:0 auto;padding:0 1.5rem}
+header .wrap{display:flex;align-items:center;gap:.5rem;height:76px}
+.logo{display:flex;align-items:center;gap:.75rem;font:400 1.35rem var(--display);margin-right:auto;letter-spacing:.01em}
+.seal{display:grid;place-items:center;width:36px;height:36px;background:var(--accent);color:var(--on);font:400 .95rem var(--display);border-radius:3px;transform:rotate(-5deg);box-shadow:inset 0 0 0 2px rgb(255 255 255/.35)}
+.btn{display:inline-flex;align-items:center;gap:.4rem;padding:.45rem .85rem;border:1.5px solid var(--edge);border-radius:2px;background:transparent;cursor:pointer;text-decoration:none;color:inherit;font-weight:600;font-size:14px;transition:border-color .15s,transform .15s,box-shadow .15s}
+.btn:hover{border-color:var(--accent)}
+.btn.pri{background:var(--accent);color:var(--on);border-color:var(--shadow);box-shadow:3px 3px 0 var(--shadow)}
+.btn.pri:hover{transform:translate(-1px,-1px);box-shadow:4px 4px 0 var(--shadow)}
+.btn.pri:active{transform:translate(2px,2px);box-shadow:1px 1px 0 var(--shadow)}
+.btn.sm{padding:.22rem .6rem;font-size:13px}
+.btn svg{width:17px;height:17px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.dirty::after{content:"";width:7px;height:7px;border-radius:50%;background:var(--accent)}
+.i-moon{display:none}[data-theme=dark] .i-sun{display:none}[data-theme=dark] .i-moon{display:block}
+@media(max-width:640px){.lbl{display:none}}
+.hero{display:flex;justify-content:space-between;align-items:center;gap:2rem;padding:4.5rem 0 1rem}
+.hero>div:first-child{animation:rise 1s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}}
+h1{font:400 clamp(2.6rem,7vw,5.4rem)/1.05 var(--display);letter-spacing:-.01em;max-width:13ch}
+.hero p{color:var(--mute);margin-top:1.5rem;max-width:44ch}
+.fan{position:relative;width:250px;height:300px;flex:none}
+.fan:empty{display:none}
+.fan span{position:absolute;width:150px;aspect-ratio:3/4;overflow:hidden;background:var(--surface);border:3px solid var(--ink);box-shadow:7px 7px 0 var(--accent)}
+.fan span:nth-child(1){left:0;top:36px;transform:rotate(-6deg)}
+.fan span:nth-child(2){left:46px;top:0;transform:rotate(2deg);z-index:1}
+.fan span:nth-child(3){left:94px;top:50px;transform:rotate(8deg)}
+.fan[data-n]:not([data-n=""])::after{content:attr(data-n);position:absolute;right:-6px;top:-14px;z-index:3;background:var(--ink);color:var(--bg);font:400 1.5rem var(--display);padding:.2rem .85rem;border-radius:20px 20px 20px 3px;transform:rotate(6deg)}
+@media(max-width:860px){.fan{display:none}}
+section{margin-top:5rem}
+.head{display:flex;flex-wrap:wrap;align-items:flex-end;gap:.75rem 1rem;padding-bottom:1.2rem;border-bottom:2px solid var(--edge);position:relative}
+.head::after{content:"";position:absolute;left:0;bottom:-2px;width:72px;height:6px;background:var(--accent);transform:skewX(-30deg);transform-origin:bottom left}
+.head>div:first-child{margin-right:auto}
+h2{font:400 2.2rem/1 var(--display)}
+.sub{color:var(--mute);font-size:14px;margin-top:.5rem}
+.search{width:200px;padding:.4rem .8rem;border:1.5px solid var(--edge);border-radius:2px;background:transparent}
+.search::placeholder{color:var(--mute)}
+.seg{display:inline-flex;gap:.25rem}
+.seg button{border:0;background:none;padding:.35rem .6rem;cursor:pointer;color:var(--mute);font-weight:600;font-size:14px}
+.seg [aria-pressed=true]{color:var(--ink);box-shadow:inset 0 -3px var(--accent)}
+#shelf{padding-top:1.5rem}
+.row{display:grid;grid-template-columns:60px 1fr 230px auto;gap:1.5rem;align-items:center;padding:1rem 1.25rem 1rem 1.6rem;margin-bottom:.9rem;background:var(--surface);border:1.5px solid var(--edge);position:relative;transition:border-color .2s}
+.row:hover{border-color:var(--accent)}
+.row.un::before{content:"";position:absolute;left:0;top:0;bottom:0;width:6px;background:var(--accent)}
+.th{position:relative;display:block;width:60px;aspect-ratio:3/4;overflow:hidden;background:var(--bg);border:2px solid var(--edge)}
+.th b,.cover b,.fan b{position:absolute;inset:0;display:grid;place-items:center;font:400 1.6rem var(--display);color:var(--mute)}
+.th img,.cover img,.fan img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.t{font:400 1.45rem/1.15 var(--display);color:inherit;text-decoration:none;display:block}
+a.t:hover{color:var(--accent)}
+.meta{font-size:13px;color:var(--mute);font-variant-numeric:tabular-nums;margin-top:.45rem}
+.meta b{background:var(--accent);color:var(--on);font-weight:700;padding:.08rem .55rem;margin-right:.3rem;border-radius:10px 10px 10px 2px}
+.prog{display:flex;align-items:center;gap:.8rem}
+.track{flex:1;height:8px;border:1.5px solid var(--edge);overflow:hidden}
+.track i{display:block;height:100%;background:var(--accent);clip-path:polygon(0 0,100% 0,calc(100% - 5px) 100%,0 100%)}
+.num{font-size:13px;color:var(--mute);font-variant-numeric:tabular-nums;min-width:4.5ch;text-align:right}
+.acts{display:flex;gap:.35rem;flex-wrap:wrap;justify-content:flex-end}
+@media(max-width:760px){.row{grid-template-columns:60px 1fr}.prog,.acts{grid-column:1/-1}.acts{justify-content:flex-start}}
+.strip{display:flex;gap:1.5rem;overflow-x:auto;scroll-snap-type:x mandatory;padding:2rem .5rem 1.25rem 0}
+.tile{flex:0 0 168px;scroll-snap-align:start}
+.cover{position:relative;aspect-ratio:3/4;overflow:hidden;background:var(--surface);border:2px solid var(--edge);margin-bottom:.85rem;transition:transform .25s,border-color .25s}
+.cover::after{content:"New";position:absolute;left:0;bottom:12px;background:var(--accent);color:var(--on);font:400 .85rem var(--display);padding:.15rem 1rem .15rem .6rem;clip-path:polygon(0 0,100% 0,86% 100%,0 100%)}
+.tile:hover .cover{transform:translateY(-5px);border-color:var(--accent)}
+.tile .t{font-size:1.15rem;margin-bottom:.1rem}
+.tile .btn{margin-top:.6rem}
+.x{position:absolute;top:7px;right:7px;width:26px;height:26px;border-radius:50%;border:0;background:rgb(0 0 0/.7);color:#fff;cursor:pointer;line-height:1;z-index:1}
+.x:hover{background:var(--accent)}
+.empty{flex:1;padding:3rem 1rem;color:var(--mute);text-align:center}
+#shelf>.empty{border:1.5px dashed var(--edge)}
+footer{margin:6rem 0 3rem;padding-top:1.5rem;border-top:2px solid var(--edge);color:var(--mute);font-size:13px;max-width:62ch}
+dialog{border:2px solid var(--edge);border-radius:2px;background:var(--surface);color:var(--ink);padding:0;width:min(440px,92vw);margin:auto;box-shadow:8px 8px 0 var(--accent)}
+dialog::backdrop{background:rgb(0 0 0/.65)}
+dialog form{padding:1.75rem}
+dialog h3{font:400 1.7rem var(--display)}
+label{display:block;font-size:13px;color:var(--mute);margin-top:.9rem}
+.f{width:100%;padding:.5rem .7rem;border:1.5px solid var(--edge);border-radius:2px;background:var(--bg);margin-top:.25rem}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:.75rem}
+.dlgacts{display:flex;gap:.5rem;margin-top:1.75rem}.dlgacts .sp{margin-right:auto}
+.danger{color:#c0392b}[data-theme=dark] .danger{color:#ff8a7a}
+.toast{position:fixed;bottom:1.5rem;left:50%;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:.6rem 1.1rem;border-radius:2px;font-size:14px;font-weight:500;opacity:0;pointer-events:none;transition:opacity .2s;z-index:20}
+.toast.on{opacity:1}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <span class="logo"><span class="seal" aria-hidden="true">만화</span>Manhwa Tracker</span>
+  <button class="btn" id="exp" title="Download a backup of your reading list" aria-label="Export reading list"><svg viewBox="0 0 24 24"><path d="M12 4v11m0 0l-4-4m4 4l4-4M5 20h14"/></svg><span class="lbl">Export</span></button>
+  <label class="btn" title="Load a reading.json backup" style="margin:0"><svg viewBox="0 0 24 24"><path d="M12 15V4m0 0L8 8m4-4l4 4M5 20h14"/></svg><span class="lbl">Import</span><input type="file" id="imp" accept=".json,application/json" hidden></label>
+  <button class="btn" id="theme" aria-label="Switch light or dark theme"><svg class="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5M17.5 17.5L19 19M5 19l1.5-1.5M17.5 6.5L19 5"/></svg><svg class="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 019.5 4 8 8 0 1020 14.5z"/></svg></button>
+  <button class="btn pri" id="add"><svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg><span class="lbl">Add series</span></button>
+</div></header>
+
+<main class="wrap">
+  <div class="hero"><div><h1 id="hero">Loading</h1><p id="hero-sub"></p></div><div class="fan" id="fan" aria-hidden="true"></div></div>
+
+  <section aria-labelledby="rd">
+    <div class="head">
+      <div><h2 id="rd">Reading</h2><p class="sub"><span id="count">0</span> series</p></div>
+      <input class="search" id="q" type="search" placeholder="Search" aria-label="Search your reading list">
+      <div class="seg" id="filters" role="group" aria-label="Filter">
+        <button data-f="all" aria-pressed="true">All</button><button data-f="unread" aria-pressed="false">Unread</button><button data-f="caught" aria-pressed="false">Caught up</button>
+      </div>
+    </div>
+    <div id="shelf"></div>
+  </section>
+
+  <section aria-labelledby="nw">
+    <div class="head">
+      <div><h2 id="nw">New titles</h2><p class="sub">Fewer than 10 chapters. Tracking one moves it to your reading list.</p></div>
+      <div id="new-actions" style="display:flex;gap:.4rem"></div>
+    </div>
+    <div class="strip" id="new"></div>
+  </section>
+
+  <footer>Progress saves automatically in your browser. Use Export to create a local backup anytime.</footer>
+</main>
+
+<dialog id="dlg"><form id="form">
+  <h3 id="dt">Add series</h3>
+  <label>Title<input class="f" name="ttl" required maxlength="200"></label>
+  <label>Series URL<input class="f" name="url" type="url" placeholder="https://arenascan.com/manga/..."></label>
+  <label>Cover image URL<input class="f" name="cover" type="url" placeholder="https://"></label>
+  <div class="two">
+    <label>Last chapter read<input class="f" name="read" type="number" min="0" step="any" value="0"></label>
+    <label>Latest chapter out<input class="f" name="latest" type="number" min="0" step="any" value="0"></label>
+  </div>
+  <div class="dlgacts">
+    <button type="button" class="btn danger sp" id="del" hidden>Delete</button>
+    <button type="button" class="btn" data-close>Cancel</button>
+    <button class="btn pri" id="save">Add series</button>
+  </div>
+</form></dialog>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const safeUrl=u=>/^https?:\/\//i.test(u||'')?u:'';
+const toSlug=s=>String(s).toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
+const num=v=>{const n=parseFloat(v);return isFinite(n)&&n>0?n:0};
+const fmt=n=>+(+n).toFixed(1);
+const store={
+  get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch{return d}},
+  set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch{toast('Browser storage is blocked, so changes won’t be saved.')}}
+};
+const KEY='arenascan_shelf',DKEY='mt_dismissed',XKEY='mt_dirty';
+let firstVisit=true;try{firstVisit=localStorage.getItem(KEY)===null}catch{}
+let shelf=store.get(KEY,{});if(!shelf||typeof shelf!=='object'||Array.isArray(shelf))shelf={};
+const dismissed=new Set(store.get(DKEY,[]));
+let releases=[],newTitles=[],filter='all',editing=null;
+
+const norm=s=>toSlug(String(s||'').replace(/['’]/g,''));
+const relFor=it=>releases.find(r=>r.id===it.id)||releases.find(r=>norm(r.title)===norm(it.title));
+const latest=it=>Math.max(relFor(it)?.latest_chapter||0,it.latest_chapter||0);
+const tracked=r=>!!shelf[r.id]||Object.values(shelf).some(it=>norm(it.title)===norm(r.title));
+const visibleNew=()=>newTitles.filter(r=>!dismissed.has(r.id)&&!tracked(r)).sort((a,b)=>(b.first_seen||'').localeCompare(a.first_seen||''));
+const dirty=v=>{store.set(XKEY,v);$('#exp').classList.toggle('dirty',v)};
+const save=()=>{store.set(KEY,shelf);store.set(DKEY,[...dismissed]);dirty(true);render()};
+
+function toast(m){const t=$('#toast');t.textContent=m;t.classList.add('on');clearTimeout(toast.t);toast.t=setTimeout(()=>t.classList.remove('on'),3000)}
+document.addEventListener('error',e=>{if(e.target.tagName==='IMG')e.target.remove()},true);
+
+const img=u=>safeUrl(u)?`<img src="${esc(u)}" alt="" loading="lazy" referrerpolicy="no-referrer">`:'';
+const initial=t=>`<b>${esc((t||'?')[0].toUpperCase())}</b>`;
+
+function row(it){
+  const l=latest(it),r=it.read_chapter||0,d=l-r,pct=l?Math.min(100,r/l*100):0,u=safeUrl(it.series_url),lu=safeUrl(relFor(it)?.latest_chapter_url)||u;
+  const th=`<span class="th">${initial(it.title)}${img(it.cover_url)}</span>`;
+  return `<article class="row${d>0?' un':''}" data-id="${esc(it.id)}">
+    ${d>0&&lu?`<a data-act="read" href="${esc(lu)}" target="_blank" rel="noopener" aria-label="Read chapter ${fmt(l)} of ${esc(it.title)}">${th}</a>`:th}
+    <div>${u?`<a class="t" href="${esc(u)}" target="_blank" rel="noopener">${esc(it.title)}</a>`:`<span class="t">${esc(it.title)}</span>`}
+      <div class="meta">${d>0?`<b>${fmt(d)} new</b> since ch.${fmt(r)}`:`Caught up at ch. ${fmt(r)}`}</div></div>
+    <div class="prog"><div class="track"><i style="width:${pct}%"></i></div><span class="num">${fmt(r)}/${fmt(l)}</span></div>
+    <div class="acts">
+      <button class="btn sm" data-act="dec" aria-label="One chapter less read">−</button>
+      <button class="btn sm" data-act="inc" aria-label="One chapter more read">+</button>
+      <button class="btn sm" data-act="edit">Edit</button>
+      ${d>0&&lu?`<a class="btn sm pri" data-act="read" href="${esc(lu)}" target="_blank" rel="noopener">Read ch. ${fmt(l)}</a>`:''}
+    </div></article>`;
+}
+
+const tile=r=>`<article class="tile" data-id="${esc(r.id)}">
+  <div class="cover">${initial(r.title)}${img(r.cover_url)}<button class="x" data-act="dismiss" aria-label="Dismiss ${esc(r.title)}">✕</button></div>
+  <span class="t">${esc(r.title)}</span>
+  <div class="meta">${r.total_chapters??fmt(r.latest_chapter)} chapter${(r.total_chapters??r.latest_chapter)==1?'':'s'}</div>
+  <button class="btn sm" data-act="track">Track</button></article>`;
+
+function fan(its){
+  const c=its.filter(it=>safeUrl(it.cover_url)).sort((a,b)=>(latest(b)-(b.read_chapter||0))-(latest(a)-(a.read_chapter||0))).slice(0,3);
+  const t=its.reduce((n,it)=>n+Math.max(0,latest(it)-(it.read_chapter||0)),0);
+  $('#fan').dataset.n=t?'+'+fmt(t):'';
+  $('#fan').innerHTML=c.map(it=>`<span>${initial(it.title)}${img(it.cover_url)}</span>`).join('');
+}
+function renderHero(){
+  const its=Object.values(shelf);let ch=0,n=0;
+  its.forEach(it=>{const d=latest(it)-(it.read_chapter||0);if(d>0){ch+=d;n++}});
+  const nn=visibleNew().length;fan(its);
+  $('#hero').textContent=!its.length?'Start your reading list.':n?`${fmt(ch)} new chapter${fmt(ch)===1?'':'s'} across ${n} series.`:'You’re all caught up.';
+  $('#hero-sub').textContent=its.length?`${its.length} series tracked${nn?`, ${nn} new title${nn===1?'':'s'} to look at`:''}.`:'Add what you’re reading and see what’s new at a glance.';
+}
+
+function renderShelf(){
+  const q=$('#q').value.trim().toLowerCase(),all=Object.values(shelf);
+  const items=all.filter(it=>{
+    if(q&&!(it.title||'').toLowerCase().includes(q))return false;
+    const un=latest(it)>(it.read_chapter||0);
+    return filter==='all'||(filter==='unread'?un:!un);
+  }).sort((a,b)=>(latest(b)-(b.read_chapter||0))-(latest(a)-(a.read_chapter||0)));
+  $('#count').textContent=all.length;
+  $('#shelf').innerHTML=items.length?items.map(row).join(''):`<div class="empty">${all.length?'Nothing matches this search or filter.':'Your reading list is empty. Add a series or track a new title below.'}</div>`;
+}
+
+function renderNew(){
+  const v=visibleNew(),hidden=newTitles.filter(r=>dismissed.has(r.id)&&!tracked(r)).length;
+  $('#new-actions').innerHTML=(v.length?'<button class="btn sm" data-act="clear">Clear all</button>':'')+(hidden?`<button class="btn sm" data-act="restore">Restore ${hidden}</button>`:'');
+  $('#new').innerHTML=v.length?v.map(tile).join(''):'<div class="empty">No new titles right now. Short series appear here after the next scraper run.</div>';
+}
+
+function render(){renderHero();renderShelf();renderNew()}
+
+function ingest(d){
+  let list=d&&d.reading!==undefined?d.reading:d,n=0;
+  list=Array.isArray(list)?list:Object.entries(list||{}).map(([k,v])=>({id:k,...v}));
+  for(const v of list){
+    if(!v||typeof v.title!=='string')continue;
+    const id=toSlug(v.id||v.title);if(!id)continue;
+    shelf[id]={id,title:v.title.slice(0,200),series_url:safeUrl(v.series_url),cover_url:safeUrl(v.cover_url),latest_chapter:num(v.latest_chapter),read_chapter:num(v.read_chapter)};n++;
+  }
+  if(Array.isArray(d?.dismissed))d.dismissed.forEach(x=>typeof x==='string'&&dismissed.add(x));
+  return n;
+}
+
+const getJson=async u=>{try{const r=await fetch(u,{cache:'no-cache'});return r.ok?await r.json():null}catch{return null}};
+async function load(){
+  const [rl,nw,rd]=await Promise.all([getJson('releases.json'),getJson('new-titles.json'),getJson('reading.json')]);
+  releases=Array.isArray(rl)?rl:[];newTitles=Array.isArray(nw)?nw:[];
+  if(firstVisit&&rd&&ingest(rd)){store.set(KEY,shelf);store.set(DKEY,[...dismissed])}
+  render();
+}
+
+$('#filters').onclick=e=>{const b=e.target.closest('button');if(!b)return;[...$('#filters').children].forEach(x=>x.setAttribute('aria-pressed',x===b));filter=b.dataset.f;renderShelf()};
+$('#q').oninput=renderShelf;
+
+document.addEventListener('click',e=>{
+  const b=e.target.closest('[data-act]');if(!b)return;
+  const a=b.dataset.act,id=b.closest('[data-id]')?.dataset.id,it=shelf[id];
+  if(a==='clear'){const v=visibleNew();v.forEach(r=>dismissed.add(r.id));save();return toast(`Dismissed ${v.length} new title${v.length===1?'':'s'}.`)}
+  if(a==='restore'){dismissed.clear();save();return}
+  if(a==='dismiss'){dismissed.add(id);save();return toast('New title dismissed.')}
+  if(a==='track'){const r=newTitles.find(x=>x.id===id);if(!r)return;shelf[id]={id,title:r.title,series_url:r.series_url,cover_url:r.cover_url,latest_chapter:r.latest_chapter,read_chapter:0};save();return toast(`${r.title} moved to your reading list.`)}
+  if(a==='edit')return openDlg(id);
+  if(!it)return;
+  const r0=it.read_chapter||0;
+  if(a==='inc'){it.read_chapter=Math.floor(r0)+1;if(it.read_chapter>latest(it))it.latest_chapter=it.read_chapter}
+  if(a==='dec')it.read_chapter=Math.max(0,Math.ceil(r0)-1);
+  if(a==='read'){it.read_chapter=latest(it);toast(`Marked ch. ${fmt(it.read_chapter)} as read.`)}
+  a==='read'?setTimeout(save,0):save();
+});
+
+const dlg=$('#dlg'),form=$('#form');
+function openDlg(id){
+  editing=id||null;const it=id?shelf[id]:{},f=form.elements;
+  $('#dt').textContent=id?'Edit series':'Add series';$('#save').textContent=id?'Save changes':'Add series';$('#del').hidden=!id;
+  f.ttl.value=it.title||'';f.url.value=it.series_url||'';f.cover.value=it.cover_url||'';f.read.value=it.read_chapter||0;f.latest.value=it.latest_chapter||0;
+  dlg.showModal();f.ttl.focus();
+}
+$('#add').onclick=()=>openDlg();
+dlg.addEventListener('click',e=>{if(e.target===dlg||e.target.closest('[data-close]'))dlg.close()});
+form.onsubmit=e=>{
+  e.preventDefault();const f=form.elements,title=f.ttl.value.trim();if(!title)return;
+  const id=editing||toSlug(title)||'series-'+Date.now(),old=shelf[id]||{};
+  shelf[id]={...old,id,title,series_url:safeUrl(f.url.value.trim())||(editing?'':`https://arenascan.com/manga/${toSlug(title)}/`),
+    cover_url:safeUrl(f.cover.value.trim()),read_chapter:num(f.read.value),latest_chapter:num(f.latest.value)};
+  dlg.close();save();toast(editing?'Changes saved.':`Added ${title}.`);
+};
+$('#del').onclick=()=>{if(confirm(`Delete “${shelf[editing]?.title}” from your reading list?`)){delete shelf[editing];dlg.close();save();toast('Series deleted.')}};
+
+$('#theme').onclick=()=>{const t=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=t;try{localStorage.setItem('mt_theme',t)}catch{}};
+
+$('#exp').onclick=()=>{
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(new Blob([JSON.stringify({reading:Object.values(shelf),dismissed:[...dismissed]},null,2)],{type:'application/json'}));
+  a.download='reading.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);
+  dirty(false);toast('Downloaded reading.json backup.');
+};
+$('#imp').onchange=e=>{
+  const file=e.target.files[0];e.target.value='';if(!file)return;
+  file.text().then(t=>{
+    try{const n=ingest(JSON.parse(t));save();toast(n?`Imported ${n} series.`:'No series found in that file.')}
+    catch{toast('That file isn’t a valid reading.json.')}
+  });
+};
+
+$('#exp').classList.toggle('dirty',!!store.get(XKEY,false));
+render();load();
+</script>
+</body>
+</html>
