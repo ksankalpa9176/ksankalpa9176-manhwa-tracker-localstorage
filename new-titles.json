@@ -1,5 +1,38 @@
 [
   {
+    "id": "got-a-gallery-in-the-wild",
+    "title": "Got a Gallery in the Wild",
+    "series_url": "https://arenascan.com/manga/got-a-gallery-in-the-wild/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-03-08-50-59-1788468659258.webp",
+    "latest_chapter": 8.0,
+    "latest_chapter_title": "Chapter 8",
+    "latest_chapter_url": "https://arenascan.com/got-a-gallery-in-the-wild-chapter-8/",
+    "total_chapters": 9,
+    "first_seen": "2026-10-04T19:09:29Z"
+  },
+  {
+    "id": "sergeant-would-you-pick-up-the-soap",
+    "title": "Sergeant Would You Pick Up the Soap?",
+    "series_url": "https://arenascan.com/manga/sergeant-would-you-pick-up-the-soap/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/125ad366dad6.webp",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/sergeant-would-you-pick-up-the-soap-chapter-6/",
+    "total_chapters": 6,
+    "first_seen": "2026-10-04T19:09:29Z"
+  },
+  {
+    "id": "love-tears-apart-zombies",
+    "title": "Love Tears Apart Zombies",
+    "series_url": "https://arenascan.com/manga/love-tears-apart-zombies/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-03-03-38-28-1788449908477.jpg",
+    "latest_chapter": 9.0,
+    "latest_chapter_title": "Chapter 9",
+    "latest_chapter_url": "https://arenascan.com/love-tears-apart-zombies-chapter-9/",
+    "total_chapters": 9,
+    "first_seen": "2026-10-04T19:09:29Z"
+  },
+  {
     "id": "the-theory-of-useless-magic",
     "title": "The Theory of Useless Magic",
     "series_url": "https://arenascan.com/manga/the-theory-of-useless-magic/",
