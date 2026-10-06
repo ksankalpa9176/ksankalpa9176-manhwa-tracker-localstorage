@@ -1,5 +1,38 @@
 [
   {
+    "id": "chronicles-of-the-blood-demon",
+    "title": "Chronicles of the Blood Demon",
+    "series_url": "https://arenascan.com/manga/chronicles-of-the-blood-demon/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-07-05-57-23-1788803843709.webp",
+    "latest_chapter": 9.0,
+    "latest_chapter_title": "Chapter 9",
+    "latest_chapter_url": "https://arenascan.com/chronicles-of-the-blood-demon-chapter-9/",
+    "total_chapters": 9,
+    "first_seen": "2026-10-06T04:47:51Z"
+  },
+  {
+    "id": "i-think-i-ve-touched-the-lion-s-whiskers",
+    "title": "I Think I’ve Touched The Lion’s Whiskers",
+    "series_url": "https://arenascan.com/manga/i-think-i-ve-touched-the-lion-s-whiskers/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/4e00d03b-08d0-4940-9349-aacfdf921ada.png",
+    "latest_chapter": 8.0,
+    "latest_chapter_title": "Chapter 8",
+    "latest_chapter_url": "https://arenascan.com/i-think-i-ve-touched-the-lion-s-whiskers-chapter-8/",
+    "total_chapters": 8,
+    "first_seen": "2026-10-06T04:47:51Z"
+  },
+  {
+    "id": "surviving-among-the-heirs",
+    "title": "Surviving Among the Heirs",
+    "series_url": "https://arenascan.com/manga/surviving-among-the-heirs/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/4392708e-e1e2-4a34-91bc-eac48e10c69b.webp",
+    "latest_chapter": 9.0,
+    "latest_chapter_title": "Chapter 9",
+    "latest_chapter_url": "https://arenascan.com/surviving-among-the-heirs-chapter-9/",
+    "total_chapters": 9,
+    "first_seen": "2026-10-06T04:47:51Z"
+  },
+  {
     "id": "not-me",
     "title": "Not Me",
     "series_url": "https://arenascan.com/manga/not-me/",
