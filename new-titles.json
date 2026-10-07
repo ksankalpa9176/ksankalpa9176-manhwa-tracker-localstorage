@@ -1,16 +1,5 @@
 [
   {
-    "id": "a-youth-observation-journal-wings-before-the-nest",
-    "title": "A Youth Observation Journal: Wings Before the Nest",
-    "series_url": "https://arenascan.com/manga/a-youth-observation-journal-wings-before-the-nest/",
-    "cover_url": "https://arenascan.com/wp-content/uploads/2025/10/351ee51e-f01c-403a-859d-b9fba6dd4409.webp",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/a-youth-observation-journal-wings-before-the-nest-chapter-9/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-07T04:13:54Z"
-  },
-  {
     "id": "the-farewell-of-canglan",
     "title": "The Farewell of Canglan",
     "series_url": "https://arenascan.com/manga/the-farewell-of-canglan/",
@@ -19,6 +8,17 @@
     "latest_chapter_title": "Chapter 6",
     "latest_chapter_url": "https://arenascan.com/the-farewell-of-canglan-chapter-6/",
     "total_chapters": 7,
+    "first_seen": "2026-10-07T04:13:54Z"
+  },
+  {
+    "id": "a-youth-observation-journal-wings-before-the-nest",
+    "title": "A Youth Observation Journal: Wings Before the Nest",
+    "series_url": "https://arenascan.com/manga/a-youth-observation-journal-wings-before-the-nest/",
+    "cover_url": "https://arenascan.com/wp-content/uploads/2025/10/351ee51e-f01c-403a-859d-b9fba6dd4409.webp",
+    "latest_chapter": 9.0,
+    "latest_chapter_title": "Chapter 9",
+    "latest_chapter_url": "https://arenascan.com/a-youth-observation-journal-wings-before-the-nest-chapter-9/",
+    "total_chapters": 9,
     "first_seen": "2026-10-07T04:13:54Z"
   },
   {
@@ -253,6 +253,17 @@
     "first_seen": "2026-10-01T15:04:21Z"
   },
   {
+    "id": "we-beat-the-demon-lord-so-let-s-go-home",
+    "title": "We Beat The Demon Lord So Let’s go Home",
+    "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-18-05-28-18-1787074098167.jpg",
+    "latest_chapter": 2.4,
+    "latest_chapter_title": "Chapter 2.4",
+    "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-2-4/",
+    "total_chapters": 5,
+    "first_seen": "2026-10-01T05:56:52Z"
+  },
+  {
     "id": "fighting-is-just-too-easy",
     "title": "Fighting Is Just Too Easy",
     "series_url": "https://arenascan.com/manga/fighting-is-just-too-easy/",
@@ -283,17 +294,6 @@
     "latest_chapter_title": "Chapter 9",
     "latest_chapter_url": "https://arenascan.com/to-be-loved-chapter-9/",
     "total_chapters": 9,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "we-beat-the-demon-lord-so-let-s-go-home",
-    "title": "We Beat The Demon Lord So Let’s go Home",
-    "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-18-05-28-18-1787074098167.jpg",
-    "latest_chapter": 2.4,
-    "latest_chapter_title": "Chapter 2.4",
-    "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-2-4/",
-    "total_chapters": 5,
     "first_seen": "2026-10-01T05:56:52Z"
   },
   {
