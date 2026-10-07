@@ -224,10 +224,10 @@
     "title": "The Principal Wife",
     "series_url": "https://arenascan.com/manga/the-principal-wife/",
     "cover_url": "https://cdn.arenascan.com/arena-bucket/images/085de2cc1280.webp",
-    "latest_chapter": 1.0,
-    "latest_chapter_title": "Chapter 1",
-    "latest_chapter_url": "https://arenascan.com/the-principal-wife-chapter-1/",
-    "total_chapters": 2,
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/the-principal-wife-chapter-6/",
+    "total_chapters": 7,
     "first_seen": "2026-10-02T03:59:21Z"
   },
   {
@@ -251,6 +251,17 @@
     "latest_chapter_url": "https://arenascan.com/the-cursed-villainess-bought-as-a-toy-i-became-the-perfect-prince-s-one-and-only-obsession-chapter-3-1/",
     "total_chapters": 4,
     "first_seen": "2026-10-01T15:04:21Z"
+  },
+  {
+    "id": "the-end-of-the-world-war",
+    "title": "The End of the World War",
+    "series_url": "https://arenascan.com/manga/the-end-of-the-world-war/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-16-01-38-50-1789565930090.jpg",
+    "latest_chapter": 8.0,
+    "latest_chapter_title": "Chapter 8",
+    "latest_chapter_url": "https://arenascan.com/the-end-of-the-world-war-chapter-8/",
+    "total_chapters": 8,
+    "first_seen": "2026-10-01T05:56:52Z"
   },
   {
     "id": "we-beat-the-demon-lord-so-let-s-go-home",
@@ -338,28 +349,6 @@
     "latest_chapter_title": "Chapter 6",
     "latest_chapter_url": "https://arenascan.com/i-offered-cup-noodles-to-the-gods-chapter-6/",
     "total_chapters": 6,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "the-end-of-the-world-war",
-    "title": "The End of the World War",
-    "series_url": "https://arenascan.com/manga/the-end-of-the-world-war/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-16-01-38-50-1789565930090.jpg",
-    "latest_chapter": 7.0,
-    "latest_chapter_title": "Chapter 7",
-    "latest_chapter_url": "https://arenascan.com/the-end-of-the-world-war-chapter-7/",
-    "total_chapters": 7,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "the-wall-street-genius-s-final-investment-playbook",
-    "title": "The Wall Street Genius’s Final Investment Playbook",
-    "series_url": "https://arenascan.com/manga/the-wall-street-genius-s-final-investment-playbook/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-02-03-32-59-1788363179457.jpg",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/the-wall-street-genius-s-final-investment-playbook-chapter-9/",
-    "total_chapters": 9,
     "first_seen": "2026-10-01T05:56:52Z"
   },
   {
