@@ -1,5 +1,27 @@
 [
   {
+    "id": "a-youth-observation-journal-wings-before-the-nest",
+    "title": "A Youth Observation Journal: Wings Before the Nest",
+    "series_url": "https://arenascan.com/manga/a-youth-observation-journal-wings-before-the-nest/",
+    "cover_url": "https://arenascan.com/wp-content/uploads/2025/10/351ee51e-f01c-403a-859d-b9fba6dd4409.webp",
+    "latest_chapter": 9.0,
+    "latest_chapter_title": "Chapter 9",
+    "latest_chapter_url": "https://arenascan.com/a-youth-observation-journal-wings-before-the-nest-chapter-9/",
+    "total_chapters": 9,
+    "first_seen": "2026-10-07T04:13:54Z"
+  },
+  {
+    "id": "the-farewell-of-canglan",
+    "title": "The Farewell of Canglan",
+    "series_url": "https://arenascan.com/manga/the-farewell-of-canglan/",
+    "cover_url": "https://arenascan.com/wp-content/uploads/2025/08/20b2bec1-d7f5-48fe-9950-099bfb397092.jpg",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/the-farewell-of-canglan-chapter-6/",
+    "total_chapters": 7,
+    "first_seen": "2026-10-07T04:13:54Z"
+  },
+  {
     "id": "my-dragon-girlfriend-has-returned",
     "title": "My Dragon Girlfriend Has Returned",
     "series_url": "https://arenascan.com/manga/my-dragon-girlfriend-has-returned/",
@@ -9,17 +31,6 @@
     "latest_chapter_url": "https://arenascan.com/my-dragon-girlfriend-has-returned-chapter-8/",
     "total_chapters": 8,
     "first_seen": "2026-10-06T20:47:00Z"
-  },
-  {
-    "id": "chronicles-of-the-blood-demon",
-    "title": "Chronicles of the Blood Demon",
-    "series_url": "https://arenascan.com/manga/chronicles-of-the-blood-demon/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-07-05-57-23-1788803843709.webp",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/chronicles-of-the-blood-demon-chapter-9/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-06T04:47:51Z"
   },
   {
     "id": "i-think-i-ve-touched-the-lion-s-whiskers",
@@ -40,6 +51,17 @@
     "latest_chapter": 9.0,
     "latest_chapter_title": "Chapter 9",
     "latest_chapter_url": "https://arenascan.com/surviving-among-the-heirs-chapter-9/",
+    "total_chapters": 9,
+    "first_seen": "2026-10-06T04:47:51Z"
+  },
+  {
+    "id": "chronicles-of-the-blood-demon",
+    "title": "Chronicles of the Blood Demon",
+    "series_url": "https://arenascan.com/manga/chronicles-of-the-blood-demon/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-07-05-57-23-1788803843709.webp",
+    "latest_chapter": 9.0,
+    "latest_chapter_title": "Chapter 9",
+    "latest_chapter_url": "https://arenascan.com/chronicles-of-the-blood-demon-chapter-9/",
     "total_chapters": 9,
     "first_seen": "2026-10-06T04:47:51Z"
   },
@@ -231,6 +253,50 @@
     "first_seen": "2026-10-01T15:04:21Z"
   },
   {
+    "id": "fighting-is-just-too-easy",
+    "title": "Fighting Is Just Too Easy",
+    "series_url": "https://arenascan.com/manga/fighting-is-just-too-easy/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-18-02-08-47-1789740527723.png",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/fighting-is-just-too-easy-chapter-7/",
+    "total_chapters": 7,
+    "first_seen": "2026-10-01T05:56:52Z"
+  },
+  {
+    "id": "i-don-t-want-to-break-up",
+    "title": "I Don’t Want to Break Up!",
+    "series_url": "https://arenascan.com/manga/i-don-t-want-to-break-up/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/file_000000007ba081f4bce2494e0f2dd7f6.png",
+    "latest_chapter": 9.0,
+    "latest_chapter_title": "Chapter 9",
+    "latest_chapter_url": "https://arenascan.com/i-don-t-want-to-break-up-chapter-9/",
+    "total_chapters": 9,
+    "first_seen": "2026-10-01T05:56:52Z"
+  },
+  {
+    "id": "to-be-loved",
+    "title": "To Be Loved",
+    "series_url": "https://arenascan.com/manga/to-be-loved/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/f647fcd2-2888-4469-9372-6307aa388a29.png",
+    "latest_chapter": 9.0,
+    "latest_chapter_title": "Chapter 9",
+    "latest_chapter_url": "https://arenascan.com/to-be-loved-chapter-9/",
+    "total_chapters": 9,
+    "first_seen": "2026-10-01T05:56:52Z"
+  },
+  {
+    "id": "we-beat-the-demon-lord-so-let-s-go-home",
+    "title": "We Beat The Demon Lord So Let’s go Home",
+    "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-18-05-28-18-1787074098167.jpg",
+    "latest_chapter": 2.4,
+    "latest_chapter_title": "Chapter 2.4",
+    "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-2-4/",
+    "total_chapters": 5,
+    "first_seen": "2026-10-01T05:56:52Z"
+  },
+  {
     "id": "dog-eat-dog",
     "title": "Dog Eat Dog",
     "series_url": "https://arenascan.com/manga/dog-eat-dog/",
@@ -308,28 +374,6 @@
     "first_seen": "2026-10-01T05:56:52Z"
   },
   {
-    "id": "fighting-is-just-too-easy",
-    "title": "Fighting Is Just Too Easy",
-    "series_url": "https://arenascan.com/manga/fighting-is-just-too-easy/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-18-02-08-47-1789740527723.png",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/fighting-is-just-too-easy-chapter-6/",
-    "total_chapters": 6,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "we-beat-the-demon-lord-so-let-s-go-home",
-    "title": "We Beat The Demon Lord So Let’s go Home",
-    "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-18-05-28-18-1787074098167.jpg",
-    "latest_chapter": 2.4,
-    "latest_chapter_title": "Chapter 2.4",
-    "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-2-4/",
-    "total_chapters": 5,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
     "id": "dogs-dream-about-swimming",
     "title": "Dogs Dream About Swimming",
     "series_url": "https://arenascan.com/manga/dogs-dream-about-swimming/",
@@ -337,28 +381,6 @@
     "latest_chapter": 7.0,
     "latest_chapter_title": "Chapter 7",
     "latest_chapter_url": "https://arenascan.com/dogs-dream-about-swimming-chapter-7/",
-    "total_chapters": 8,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "i-don-t-want-to-break-up",
-    "title": "I Don’t Want to Break Up!",
-    "series_url": "https://arenascan.com/manga/i-don-t-want-to-break-up/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/file_000000007ba081f4bce2494e0f2dd7f6.png",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/i-don-t-want-to-break-up-chapter-8/",
-    "total_chapters": 8,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "to-be-loved",
-    "title": "To Be Loved",
-    "series_url": "https://arenascan.com/manga/to-be-loved/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/f647fcd2-2888-4469-9372-6307aa388a29.png",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/to-be-loved-chapter-8/",
     "total_chapters": 8,
     "first_seen": "2026-10-01T05:56:52Z"
   }
