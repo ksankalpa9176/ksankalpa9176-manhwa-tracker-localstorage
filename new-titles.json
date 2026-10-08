@@ -1,16 +1,5 @@
 [
   {
-    "id": "the-farewell-of-canglan",
-    "title": "The Farewell of Canglan",
-    "series_url": "https://arenascan.com/manga/the-farewell-of-canglan/",
-    "cover_url": "https://arenascan.com/wp-content/uploads/2025/08/20b2bec1-d7f5-48fe-9950-099bfb397092.jpg",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/the-farewell-of-canglan-chapter-6/",
-    "total_chapters": 7,
-    "first_seen": "2026-10-07T04:13:54Z"
-  },
-  {
     "id": "a-youth-observation-journal-wings-before-the-nest",
     "title": "A Youth Observation Journal: Wings Before the Nest",
     "series_url": "https://arenascan.com/manga/a-youth-observation-journal-wings-before-the-nest/",
@@ -19,6 +8,17 @@
     "latest_chapter_title": "Chapter 9",
     "latest_chapter_url": "https://arenascan.com/a-youth-observation-journal-wings-before-the-nest-chapter-9/",
     "total_chapters": 9,
+    "first_seen": "2026-10-07T04:13:54Z"
+  },
+  {
+    "id": "the-farewell-of-canglan",
+    "title": "The Farewell of Canglan",
+    "series_url": "https://arenascan.com/manga/the-farewell-of-canglan/",
+    "cover_url": "https://arenascan.com/wp-content/uploads/2025/08/20b2bec1-d7f5-48fe-9950-099bfb397092.jpg",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/the-farewell-of-canglan-chapter-6/",
+    "total_chapters": 7,
     "first_seen": "2026-10-07T04:13:54Z"
   },
   {
@@ -264,17 +264,6 @@
     "first_seen": "2026-10-01T05:56:52Z"
   },
   {
-    "id": "we-beat-the-demon-lord-so-let-s-go-home",
-    "title": "We Beat The Demon Lord So Let’s go Home",
-    "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-18-05-28-18-1787074098167.jpg",
-    "latest_chapter": 2.4,
-    "latest_chapter_title": "Chapter 2.4",
-    "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-2-4/",
-    "total_chapters": 5,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
     "id": "fighting-is-just-too-easy",
     "title": "Fighting Is Just Too Easy",
     "series_url": "https://arenascan.com/manga/fighting-is-just-too-easy/",
@@ -308,6 +297,17 @@
     "first_seen": "2026-10-01T05:56:52Z"
   },
   {
+    "id": "we-beat-the-demon-lord-so-let-s-go-home",
+    "title": "We Beat The Demon Lord So Let’s go Home",
+    "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-18-05-28-18-1787074098167.jpg",
+    "latest_chapter": 2.4,
+    "latest_chapter_title": "Chapter 2.4",
+    "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-2-4/",
+    "total_chapters": 5,
+    "first_seen": "2026-10-01T05:56:52Z"
+  },
+  {
     "id": "dog-eat-dog",
     "title": "Dog Eat Dog",
     "series_url": "https://arenascan.com/manga/dog-eat-dog/",
@@ -316,28 +316,6 @@
     "latest_chapter_title": "Chapter 5",
     "latest_chapter_url": "https://arenascan.com/dog-eat-dog-chapter-5/",
     "total_chapters": 5,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "how-to-survive-the-horror-novel-i-wrote",
-    "title": "How to Survive the Horror Novel I Wrote",
-    "series_url": "https://arenascan.com/manga/how-to-survive-the-horror-novel-i-wrote/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/file_00000000aadc8207bedaf22513029546.png",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/how-to-survive-the-horror-novel-i-wrote-chapter-8/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "survival-instincts",
-    "title": "Survival Instincts",
-    "series_url": "https://arenascan.com/manga/survival-instincts/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/6cc5e71c46fc.webp",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/survival-instincts-chapter-8/",
-    "total_chapters": 9,
     "first_seen": "2026-10-01T05:56:52Z"
   },
   {
