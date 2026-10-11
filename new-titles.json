@@ -1,5 +1,16 @@
 [
   {
+    "id": "the-princess-who-longs-for-death",
+    "title": "The Princess Who Longs for Death",
+    "series_url": "https://arenascan.com/manga/the-princess-who-longs-for-death/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-10-02-58-48-1786373928195.png",
+    "latest_chapter": 3.1,
+    "latest_chapter_title": "Chapter 3.1",
+    "latest_chapter_url": "https://arenascan.com/the-princess-who-longs-for-death-chapter-3-1/",
+    "total_chapters": 5,
+    "first_seen": "2026-10-11T17:18:09Z"
+  },
+  {
     "id": "reincarnated-as-a-green-slime-i-ll-turn-the-whole-world-green",
     "title": "Reincarnated as a Green Slime, I’ll Turn the Whole World Green",
     "series_url": "https://arenascan.com/manga/reincarnated-as-a-green-slime-i-ll-turn-the-whole-world-green/",
@@ -110,6 +121,17 @@
     "first_seen": "2026-10-05T03:58:42Z"
   },
   {
+    "id": "sergeant-would-you-pick-up-the-soap",
+    "title": "Sergeant Would You Pick Up the Soap?",
+    "series_url": "https://arenascan.com/manga/sergeant-would-you-pick-up-the-soap/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/125ad366dad6.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/sergeant-would-you-pick-up-the-soap-chapter-7/",
+    "total_chapters": 7,
+    "first_seen": "2026-10-04T19:09:29Z"
+  },
+  {
     "id": "got-a-gallery-in-the-wild",
     "title": "Got a Gallery in the Wild",
     "series_url": "https://arenascan.com/manga/got-a-gallery-in-the-wild/",
@@ -118,17 +140,6 @@
     "latest_chapter_title": "Chapter 8",
     "latest_chapter_url": "https://arenascan.com/got-a-gallery-in-the-wild-chapter-8/",
     "total_chapters": 9,
-    "first_seen": "2026-10-04T19:09:29Z"
-  },
-  {
-    "id": "sergeant-would-you-pick-up-the-soap",
-    "title": "Sergeant Would You Pick Up the Soap?",
-    "series_url": "https://arenascan.com/manga/sergeant-would-you-pick-up-the-soap/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/125ad366dad6.webp",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/sergeant-would-you-pick-up-the-soap-chapter-6/",
-    "total_chapters": 6,
     "first_seen": "2026-10-04T19:09:29Z"
   },
   {
