@@ -1,5 +1,71 @@
 [
   {
+    "id": "the-no-good-uncle",
+    "title": "The No-Good Uncle",
+    "series_url": "https://arenascan.com/manga/the-no-good-uncle/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/ac536f08ad7c.webp",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/the-no-good-uncle-chapter-6/",
+    "total_chapters": 7,
+    "first_seen": "2026-10-11T23:26:18Z"
+  },
+  {
+    "id": "i-shouldn-t-have-slept",
+    "title": "I shouldn’t have slept",
+    "series_url": "https://arenascan.com/manga/i-shouldn-t-have-slept/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/983cce53adea.webp",
+    "latest_chapter": 1.0,
+    "latest_chapter_title": "Chapter 1",
+    "latest_chapter_url": "https://arenascan.com/i-shouldn-t-have-slept-chapter-1/",
+    "total_chapters": 2,
+    "first_seen": "2026-10-11T23:26:18Z"
+  },
+  {
+    "id": "surviving-as-the-assassinated-crown-prince",
+    "title": "Surviving as the Assassinated Crown Prince",
+    "series_url": "https://arenascan.com/manga/surviving-as-the-assassinated-crown-prince/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/984298b9c8c4.webp",
+    "latest_chapter": 3.0,
+    "latest_chapter_title": "Chapter 3",
+    "latest_chapter_url": "https://arenascan.com/surviving-as-the-assassinated-crown-prince-chapter-3/",
+    "total_chapters": 4,
+    "first_seen": "2026-10-11T23:26:18Z"
+  },
+  {
+    "id": "moral-panic",
+    "title": "Moral Panic",
+    "series_url": "https://arenascan.com/manga/moral-panic/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/1d7eeb076474.webp",
+    "latest_chapter": 1.0,
+    "latest_chapter_title": "Chapter 1",
+    "latest_chapter_url": "https://arenascan.com/moral-panic-chapter-1/",
+    "total_chapters": 2,
+    "first_seen": "2026-10-11T23:26:18Z"
+  },
+  {
+    "id": "a-childhood-friends-romance",
+    "title": "A Childhood Friends Romance",
+    "series_url": "https://arenascan.com/manga/a-childhood-friends-romance/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/033b276109ce.webp",
+    "latest_chapter": 4.0,
+    "latest_chapter_title": "Chapter 4",
+    "latest_chapter_url": "https://arenascan.com/a-childhood-friends-romance-chapter-4/",
+    "total_chapters": 5,
+    "first_seen": "2026-10-11T23:26:18Z"
+  },
+  {
+    "id": "protective-confinement",
+    "title": "Protective Confinement",
+    "series_url": "https://arenascan.com/manga/protective-confinement/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/54fa32c079a6.webp",
+    "latest_chapter": 5.0,
+    "latest_chapter_title": "Chapter 5",
+    "latest_chapter_url": "https://arenascan.com/protective-confinement-chapter-5/",
+    "total_chapters": 6,
+    "first_seen": "2026-10-11T23:26:18Z"
+  },
+  {
     "id": "the-princess-who-longs-for-death",
     "title": "The Princess Who Longs for Death",
     "series_url": "https://arenascan.com/manga/the-princess-who-longs-for-death/",
