@@ -1,5 +1,16 @@
 [
   {
+    "id": "a-childhood-friends-romance",
+    "title": "A Childhood Friends Romance",
+    "series_url": "https://arenascan.com/manga/a-childhood-friends-romance/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/033b276109ce.webp",
+    "latest_chapter": 5.0,
+    "latest_chapter_title": "Chapter 5",
+    "latest_chapter_url": "https://arenascan.com/a-childhood-friends-romance-chapter-5/",
+    "total_chapters": 6,
+    "first_seen": "2026-10-11T23:26:18Z"
+  },
+  {
     "id": "the-no-good-uncle",
     "title": "The No-Good Uncle",
     "series_url": "https://arenascan.com/manga/the-no-good-uncle/",
@@ -41,17 +52,6 @@
     "latest_chapter_title": "Chapter 1",
     "latest_chapter_url": "https://arenascan.com/moral-panic-chapter-1/",
     "total_chapters": 2,
-    "first_seen": "2026-10-11T23:26:18Z"
-  },
-  {
-    "id": "a-childhood-friends-romance",
-    "title": "A Childhood Friends Romance",
-    "series_url": "https://arenascan.com/manga/a-childhood-friends-romance/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/033b276109ce.webp",
-    "latest_chapter": 4.0,
-    "latest_chapter_title": "Chapter 4",
-    "latest_chapter_url": "https://arenascan.com/a-childhood-friends-romance-chapter-4/",
-    "total_chapters": 5,
     "first_seen": "2026-10-11T23:26:18Z"
   },
   {
@@ -330,6 +330,17 @@
     "first_seen": "2026-10-01T15:04:21Z"
   },
   {
+    "id": "dogs-dream-about-swimming",
+    "title": "Dogs Dream About Swimming",
+    "series_url": "https://arenascan.com/manga/dogs-dream-about-swimming/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/ddea98e404f3.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/dogs-dream-about-swimming-chapter-7/",
+    "total_chapters": 8,
+    "first_seen": "2026-10-01T05:56:52Z"
+  },
+  {
     "id": "we-beat-the-demon-lord-so-let-s-go-home",
     "title": "We Beat The Demon Lord So Let’s go Home",
     "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
@@ -415,17 +426,6 @@
     "latest_chapter_title": "Chapter 9",
     "latest_chapter_url": "https://arenascan.com/selection-of-queens-in-joseon-dynasty-chapter-9/",
     "total_chapters": 9,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "dogs-dream-about-swimming",
-    "title": "Dogs Dream About Swimming",
-    "series_url": "https://arenascan.com/manga/dogs-dream-about-swimming/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/ddea98e404f3.webp",
-    "latest_chapter": 7.0,
-    "latest_chapter_title": "Chapter 7",
-    "latest_chapter_url": "https://arenascan.com/dogs-dream-about-swimming-chapter-7/",
-    "total_chapters": 8,
     "first_seen": "2026-10-01T05:56:52Z"
   }
 ]
