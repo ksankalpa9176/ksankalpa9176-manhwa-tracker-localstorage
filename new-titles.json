@@ -33,6 +33,17 @@
     "first_seen": "2026-10-13T01:48:07Z"
   },
   {
+    "id": "moral-panic",
+    "title": "Moral Panic",
+    "series_url": "https://arenascan.com/manga/moral-panic/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/1d7eeb076474.webp",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/moral-panic-chapter-6/",
+    "total_chapters": 7,
+    "first_seen": "2026-10-11T23:26:18Z"
+  },
+  {
     "id": "i-shouldn-t-have-slept",
     "title": "I shouldn’t have slept",
     "series_url": "https://arenascan.com/manga/i-shouldn-t-have-slept/",
@@ -74,17 +85,6 @@
     "latest_chapter_title": "Chapter 3",
     "latest_chapter_url": "https://arenascan.com/surviving-as-the-assassinated-crown-prince-chapter-3/",
     "total_chapters": 4,
-    "first_seen": "2026-10-11T23:26:18Z"
-  },
-  {
-    "id": "moral-panic",
-    "title": "Moral Panic",
-    "series_url": "https://arenascan.com/manga/moral-panic/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/1d7eeb076474.webp",
-    "latest_chapter": 1.0,
-    "latest_chapter_title": "Chapter 1",
-    "latest_chapter_url": "https://arenascan.com/moral-panic-chapter-1/",
-    "total_chapters": 2,
     "first_seen": "2026-10-11T23:26:18Z"
   },
   {
