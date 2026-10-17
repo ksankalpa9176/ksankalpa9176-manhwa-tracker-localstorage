@@ -286,17 +286,6 @@
     "first_seen": "2026-10-03T22:39:36Z"
   },
   {
-    "id": "the-hero-s-ballad",
-    "title": "The Hero’s Ballad",
-    "series_url": "https://arenascan.com/manga/the-hero-s-ballad/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-16-12-37-50-1789519070001.jpg",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/the-hero-s-ballad-chapter-8/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-03T18:59:29Z"
-  },
-  {
     "id": "there-s-no-king-sejong-in-my-joseon",
     "title": "There’s No King Sejong in My Joseon",
     "series_url": "https://arenascan.com/manga/there-s-no-king-sejong-in-my-joseon/",
@@ -363,6 +352,17 @@
     "first_seen": "2026-10-01T15:04:21Z"
   },
   {
+    "id": "dog-eat-dog",
+    "title": "Dog Eat Dog",
+    "series_url": "https://arenascan.com/manga/dog-eat-dog/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-21-05-55-59-1787334959595.png",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/dog-eat-dog-chapter-6/",
+    "total_chapters": 6,
+    "first_seen": "2026-10-01T05:56:52Z"
+  },
+  {
     "id": "the-end-of-the-world-war",
     "title": "The End of the World War",
     "series_url": "https://arenascan.com/manga/the-end-of-the-world-war/",
@@ -404,17 +404,6 @@
     "latest_chapter_title": "Chapter 3.1",
     "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-3-1/",
     "total_chapters": 6,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "dog-eat-dog",
-    "title": "Dog Eat Dog",
-    "series_url": "https://arenascan.com/manga/dog-eat-dog/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-21-05-55-59-1787334959595.png",
-    "latest_chapter": 5.0,
-    "latest_chapter_title": "Chapter 5",
-    "latest_chapter_url": "https://arenascan.com/dog-eat-dog-chapter-5/",
-    "total_chapters": 5,
     "first_seen": "2026-10-01T05:56:52Z"
   },
   {
