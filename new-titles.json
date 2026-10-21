@@ -1,5 +1,82 @@
 [
   {
+    "id": "defending-the-villain-s-innocence",
+    "title": "Defending the Villain’s Innocence",
+    "series_url": "https://arenascan.com/manga/defending-the-villain-s-innocence/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-15-01-46-24-1792071984264.png",
+    "latest_chapter": 1.0,
+    "latest_chapter_title": "Chapter 1",
+    "latest_chapter_url": "https://arenascan.com/defending-the-villain-s-innocence-chapter-1/",
+    "total_chapters": 1,
+    "first_seen": "2026-10-21T23:00:25Z"
+  },
+  {
+    "id": "for-psyche",
+    "title": "For Psyche",
+    "series_url": "https://arenascan.com/manga/for-psyche/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-15-08-00-07-1792094407085.jpg",
+    "latest_chapter": 3.0,
+    "latest_chapter_title": "Chapter 3",
+    "latest_chapter_url": "https://arenascan.com/for-psyche-chapter-3/",
+    "total_chapters": 4,
+    "first_seen": "2026-10-21T23:00:25Z"
+  },
+  {
+    "id": "talker",
+    "title": "Talker",
+    "series_url": "https://arenascan.com/manga/talker/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-21-02-07-36-1792591656899.jpg",
+    "latest_chapter": 5.0,
+    "latest_chapter_title": "Chapter 5",
+    "latest_chapter_url": "https://arenascan.com/talker-chapter-5/",
+    "total_chapters": 5,
+    "first_seen": "2026-10-21T23:00:25Z"
+  },
+  {
+    "id": "i-was-mistaken-as-an-s-class-employee",
+    "title": "I Was Mistaken as an S-Class Employee",
+    "series_url": "https://arenascan.com/manga/i-was-mistaken-as-an-s-class-employee/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-20-01-20-57-1792502457741.png",
+    "latest_chapter": 5.0,
+    "latest_chapter_title": "Chapter 5",
+    "latest_chapter_url": "https://arenascan.com/i-was-mistaken-as-an-s-class-employee-chapter-5/",
+    "total_chapters": 5,
+    "first_seen": "2026-10-21T23:00:25Z"
+  },
+  {
+    "id": "the-slime-s-livestream-star",
+    "title": "The Slime’s Livestream Star",
+    "series_url": "https://arenascan.com/manga/the-slime-s-livestream-star/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-19-10-11-08-1792447868646.jpg",
+    "latest_chapter": 3.0,
+    "latest_chapter_title": "Chapter 3",
+    "latest_chapter_url": "https://arenascan.com/the-slime-s-livestream-star-chapter-3/",
+    "total_chapters": 3,
+    "first_seen": "2026-10-21T23:00:25Z"
+  },
+  {
+    "id": "the-newbie-civil-servant-hunts-villains-before-going-home",
+    "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+    "series_url": "https://arenascan.com/manga/the-newbie-civil-servant-hunts-villains-before-going-home/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-18-05-03-47-1792343027072.jpeg",
+    "latest_chapter": 5.0,
+    "latest_chapter_title": "Chapter 5",
+    "latest_chapter_url": "https://arenascan.com/the-newbie-civil-servant-hunts-villains-before-going-home-chapter-5/",
+    "total_chapters": 5,
+    "first_seen": "2026-10-21T23:00:25Z"
+  },
+  {
+    "id": "legend-of-online-gaming",
+    "title": "Legend of Online Gaming",
+    "series_url": "https://arenascan.com/manga/legend-of-online-gaming/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-15-06-34-15-1792089255728.png",
+    "latest_chapter": 3.0,
+    "latest_chapter_title": "Chapter 3",
+    "latest_chapter_url": "https://arenascan.com/legend-of-online-gaming-chapter-3/",
+    "total_chapters": 3,
+    "first_seen": "2026-10-21T23:00:25Z"
+  },
+  {
     "id": "imprinted",
     "title": "Imprinted",
     "series_url": "https://arenascan.com/manga/imprinted/",
@@ -349,17 +426,6 @@
     "latest_chapter_title": "Chapter 6",
     "latest_chapter_url": "https://arenascan.com/dog-eat-dog-chapter-6/",
     "total_chapters": 6,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "the-end-of-the-world-war",
-    "title": "The End of the World War",
-    "series_url": "https://arenascan.com/manga/the-end-of-the-world-war/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-16-01-38-50-1789565930090.jpg",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/the-end-of-the-world-war-chapter-9/",
-    "total_chapters": 9,
     "first_seen": "2026-10-01T05:56:52Z"
   },
   {
