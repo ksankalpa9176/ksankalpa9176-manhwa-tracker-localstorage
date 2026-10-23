@@ -1,5 +1,16 @@
 [
   {
+    "id": "i-want-you-to-be-happy",
+    "title": "I Want You to be Happy",
+    "series_url": "https://arenascan.com/manga/i-want-you-to-be-happy/",
+    "cover_url": "https://arenascan.com/wp-content/uploads/2025/07/791ab3e9-95c5-4e2d-ae90-0088fa8e494a.jpg",
+    "latest_chapter": 1.0,
+    "latest_chapter_title": "Chapter 1",
+    "latest_chapter_url": "https://arenascan.com/i-want-you-to-be-happy-chapter-1/",
+    "total_chapters": 2,
+    "first_seen": "2026-10-22T03:14:04Z"
+  },
+  {
     "id": "in-honor-of-you-who-survived",
     "title": "In Honor of You Who Survived",
     "series_url": "https://arenascan.com/manga/in-honor-of-you-who-survived/",
@@ -11,15 +22,15 @@
     "first_seen": "2026-10-22T03:14:04Z"
   },
   {
-    "id": "i-want-you-to-be-happy",
-    "title": "I Want You to be Happy",
-    "series_url": "https://arenascan.com/manga/i-want-you-to-be-happy/",
-    "cover_url": "https://arenascan.com/wp-content/uploads/2025/07/791ab3e9-95c5-4e2d-ae90-0088fa8e494a.jpg",
-    "latest_chapter": 1.0,
-    "latest_chapter_title": "Chapter 1",
-    "latest_chapter_url": "https://arenascan.com/i-want-you-to-be-happy-chapter-1/",
-    "total_chapters": 2,
-    "first_seen": "2026-10-22T03:14:04Z"
+    "id": "the-slime-s-livestream-star",
+    "title": "The Slime’s Livestream Star",
+    "series_url": "https://arenascan.com/manga/the-slime-s-livestream-star/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-19-10-11-08-1792447868646.jpg",
+    "latest_chapter": 5.0,
+    "latest_chapter_title": "Chapter 5",
+    "latest_chapter_url": "https://arenascan.com/the-slime-s-livestream-star-chapter-5/",
+    "total_chapters": 5,
+    "first_seen": "2026-10-21T23:00:25Z"
   },
   {
     "id": "legend-of-online-gaming",
@@ -41,17 +52,6 @@
     "latest_chapter_title": "Chapter 6",
     "latest_chapter_url": "https://arenascan.com/talker-chapter-6/",
     "total_chapters": 6,
-    "first_seen": "2026-10-21T23:00:25Z"
-  },
-  {
-    "id": "the-slime-s-livestream-star",
-    "title": "The Slime’s Livestream Star",
-    "series_url": "https://arenascan.com/manga/the-slime-s-livestream-star/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-19-10-11-08-1792447868646.jpg",
-    "latest_chapter": 5.0,
-    "latest_chapter_title": "Chapter 5",
-    "latest_chapter_url": "https://arenascan.com/the-slime-s-livestream-star-chapter-5/",
-    "total_chapters": 5,
     "first_seen": "2026-10-21T23:00:25Z"
   },
   {
@@ -264,17 +264,6 @@
     "first_seen": "2026-10-06T04:47:51Z"
   },
   {
-    "id": "the-impossible-delivery",
-    "title": "The Impossible Delivery",
-    "series_url": "https://arenascan.com/manga/the-impossible-delivery/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/fc4eab07-5808-465a-b32a-7cb502ee0acd.webp",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/the-impossible-delivery-chapter-9/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-05T03:58:42Z"
-  },
-  {
     "id": "the-executed-villainess-rewinds-time-to-take-her-revenge",
     "title": "The Executed Villainess Rewinds Time to Take Her Revenge",
     "series_url": "https://arenascan.com/manga/the-executed-villainess-rewinds-time-to-take-her-revenge/",
@@ -283,6 +272,17 @@
     "latest_chapter_title": "Chapter 7",
     "latest_chapter_url": "https://arenascan.com/the-executed-villainess-rewinds-time-to-take-her-revenge-chapter-7/",
     "total_chapters": 7,
+    "first_seen": "2026-10-05T03:58:42Z"
+  },
+  {
+    "id": "the-impossible-delivery",
+    "title": "The Impossible Delivery",
+    "series_url": "https://arenascan.com/manga/the-impossible-delivery/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/fc4eab07-5808-465a-b32a-7cb502ee0acd.webp",
+    "latest_chapter": 9.0,
+    "latest_chapter_title": "Chapter 9",
+    "latest_chapter_url": "https://arenascan.com/the-impossible-delivery-chapter-9/",
+    "total_chapters": 9,
     "first_seen": "2026-10-05T03:58:42Z"
   },
   {
@@ -385,6 +385,28 @@
     "first_seen": "2026-10-01T15:04:21Z"
   },
   {
+    "id": "i-offered-cup-noodles-to-the-gods",
+    "title": "I Offered Cup Noodles to the Gods",
+    "series_url": "https://arenascan.com/manga/i-offered-cup-noodles-to-the-gods/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-23-01-57-29-1790171849976.jpg",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/i-offered-cup-noodles-to-the-gods-chapter-7/",
+    "total_chapters": 7,
+    "first_seen": "2026-10-01T05:56:52Z"
+  },
+  {
+    "id": "fighting-is-just-too-easy",
+    "title": "Fighting Is Just Too Easy",
+    "series_url": "https://arenascan.com/manga/fighting-is-just-too-easy/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-18-02-08-47-1789740527723.png",
+    "latest_chapter": 9.0,
+    "latest_chapter_title": "Chapter 9",
+    "latest_chapter_url": "https://arenascan.com/fighting-is-just-too-easy-chapter-9/",
+    "total_chapters": 9,
+    "first_seen": "2026-10-01T05:56:52Z"
+  },
+  {
     "id": "we-beat-the-demon-lord-so-let-s-go-home",
     "title": "We Beat The Demon Lord So Let’s go Home",
     "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
@@ -414,28 +436,6 @@
     "latest_chapter": 6.0,
     "latest_chapter_title": "Chapter 6",
     "latest_chapter_url": "https://arenascan.com/dog-eat-dog-chapter-6/",
-    "total_chapters": 6,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "fighting-is-just-too-easy",
-    "title": "Fighting Is Just Too Easy",
-    "series_url": "https://arenascan.com/manga/fighting-is-just-too-easy/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-18-02-08-47-1789740527723.png",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/fighting-is-just-too-easy-chapter-8/",
-    "total_chapters": 8,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "i-offered-cup-noodles-to-the-gods",
-    "title": "I Offered Cup Noodles to the Gods",
-    "series_url": "https://arenascan.com/manga/i-offered-cup-noodles-to-the-gods/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-23-01-57-29-1790171849976.jpg",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/i-offered-cup-noodles-to-the-gods-chapter-6/",
     "total_chapters": 6,
     "first_seen": "2026-10-01T05:56:52Z"
   },
