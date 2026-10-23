@@ -132,6 +132,17 @@
     "first_seen": "2026-10-15T22:52:59Z"
   },
   {
+    "id": "moral-panic",
+    "title": "Moral Panic",
+    "series_url": "https://arenascan.com/manga/moral-panic/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/1d7eeb076474.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/moral-panic-chapter-7/",
+    "total_chapters": 8,
+    "first_seen": "2026-10-11T23:26:18Z"
+  },
+  {
     "id": "i-shouldn-t-have-slept",
     "title": "I shouldn’t have slept",
     "series_url": "https://arenascan.com/manga/i-shouldn-t-have-slept/",
@@ -151,17 +162,6 @@
     "latest_chapter_title": "Chapter 8",
     "latest_chapter_url": "https://arenascan.com/a-childhood-friends-romance-chapter-8/",
     "total_chapters": 9,
-    "first_seen": "2026-10-11T23:26:18Z"
-  },
-  {
-    "id": "moral-panic",
-    "title": "Moral Panic",
-    "series_url": "https://arenascan.com/manga/moral-panic/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/1d7eeb076474.webp",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/moral-panic-chapter-6/",
-    "total_chapters": 7,
     "first_seen": "2026-10-11T23:26:18Z"
   },
   {
@@ -367,10 +367,10 @@
     "title": "The Otherworldly Everything Store",
     "series_url": "https://arenascan.com/manga/the-otherworldly-everything-store/",
     "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-17-02-07-59-1789654079296.jpg",
-    "latest_chapter": 7.0,
-    "latest_chapter_title": "Chapter 7",
-    "latest_chapter_url": "https://arenascan.com/the-otherworldly-everything-store-chapter-7/",
-    "total_chapters": 7,
+    "latest_chapter": 8.0,
+    "latest_chapter_title": "Chapter 8",
+    "latest_chapter_url": "https://arenascan.com/the-otherworldly-everything-store-chapter-8/",
+    "total_chapters": 8,
     "first_seen": "2026-10-01T20:47:02Z"
   },
   {
