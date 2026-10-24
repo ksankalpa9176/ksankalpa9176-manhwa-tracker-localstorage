@@ -297,17 +297,6 @@
     "first_seen": "2026-10-04T19:09:29Z"
   },
   {
-    "id": "love-tears-apart-zombies",
-    "title": "Love Tears Apart Zombies",
-    "series_url": "https://arenascan.com/manga/love-tears-apart-zombies/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-03-03-38-28-1788449908477.jpg",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/love-tears-apart-zombies-chapter-9/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-04T19:09:29Z"
-  },
-  {
     "id": "park-sujin-and-baek-seojeong",
     "title": "Park Sujin and Baek Seojeong",
     "series_url": "https://arenascan.com/manga/park-sujin-and-baek-seojeong/",
@@ -396,17 +385,6 @@
     "first_seen": "2026-10-01T05:56:52Z"
   },
   {
-    "id": "fighting-is-just-too-easy",
-    "title": "Fighting Is Just Too Easy",
-    "series_url": "https://arenascan.com/manga/fighting-is-just-too-easy/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-18-02-08-47-1789740527723.png",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/fighting-is-just-too-easy-chapter-9/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
     "id": "we-beat-the-demon-lord-so-let-s-go-home",
     "title": "We Beat The Demon Lord So Let’s go Home",
     "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
@@ -415,6 +393,17 @@
     "latest_chapter_title": "Chapter 3.3",
     "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-3-3/",
     "total_chapters": 8,
+    "first_seen": "2026-10-01T05:56:52Z"
+  },
+  {
+    "id": "fighting-is-just-too-easy",
+    "title": "Fighting Is Just Too Easy",
+    "series_url": "https://arenascan.com/manga/fighting-is-just-too-easy/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-18-02-08-47-1789740527723.png",
+    "latest_chapter": 9.0,
+    "latest_chapter_title": "Chapter 9",
+    "latest_chapter_url": "https://arenascan.com/fighting-is-just-too-easy-chapter-9/",
+    "total_chapters": 9,
     "first_seen": "2026-10-01T05:56:52Z"
   },
   {
