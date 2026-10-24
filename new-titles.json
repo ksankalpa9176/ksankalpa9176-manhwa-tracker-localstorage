@@ -385,17 +385,6 @@
     "first_seen": "2026-10-01T05:56:52Z"
   },
   {
-    "id": "we-beat-the-demon-lord-so-let-s-go-home",
-    "title": "We Beat The Demon Lord So Let’s go Home",
-    "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-18-05-28-18-1787074098167.jpg",
-    "latest_chapter": 3.3,
-    "latest_chapter_title": "Chapter 3.3",
-    "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-3-3/",
-    "total_chapters": 8,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
     "id": "fighting-is-just-too-easy",
     "title": "Fighting Is Just Too Easy",
     "series_url": "https://arenascan.com/manga/fighting-is-just-too-easy/",
@@ -404,6 +393,17 @@
     "latest_chapter_title": "Chapter 9",
     "latest_chapter_url": "https://arenascan.com/fighting-is-just-too-easy-chapter-9/",
     "total_chapters": 9,
+    "first_seen": "2026-10-01T05:56:52Z"
+  },
+  {
+    "id": "we-beat-the-demon-lord-so-let-s-go-home",
+    "title": "We Beat The Demon Lord So Let’s go Home",
+    "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-18-05-28-18-1787074098167.jpg",
+    "latest_chapter": 3.3,
+    "latest_chapter_title": "Chapter 3.3",
+    "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-3-3/",
+    "total_chapters": 8,
     "first_seen": "2026-10-01T05:56:52Z"
   },
   {
