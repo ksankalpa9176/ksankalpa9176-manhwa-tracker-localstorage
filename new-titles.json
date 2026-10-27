@@ -22,17 +22,6 @@
     "first_seen": "2026-10-22T03:14:04Z"
   },
   {
-    "id": "the-slime-s-livestream-star",
-    "title": "The Slime’s Livestream Star",
-    "series_url": "https://arenascan.com/manga/the-slime-s-livestream-star/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-19-10-11-08-1792447868646.jpg",
-    "latest_chapter": 5.0,
-    "latest_chapter_title": "Chapter 5",
-    "latest_chapter_url": "https://arenascan.com/the-slime-s-livestream-star-chapter-5/",
-    "total_chapters": 5,
-    "first_seen": "2026-10-21T23:00:25Z"
-  },
-  {
     "id": "the-newbie-civil-servant-hunts-villains-before-going-home",
     "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
     "series_url": "https://arenascan.com/manga/the-newbie-civil-servant-hunts-villains-before-going-home/",
@@ -41,6 +30,17 @@
     "latest_chapter_title": "Chapter 6",
     "latest_chapter_url": "https://arenascan.com/the-newbie-civil-servant-hunts-villains-before-going-home-chapter-6/",
     "total_chapters": 6,
+    "first_seen": "2026-10-21T23:00:25Z"
+  },
+  {
+    "id": "the-slime-s-livestream-star",
+    "title": "The Slime’s Livestream Star",
+    "series_url": "https://arenascan.com/manga/the-slime-s-livestream-star/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-19-10-11-08-1792447868646.jpg",
+    "latest_chapter": 5.0,
+    "latest_chapter_title": "Chapter 5",
+    "latest_chapter_url": "https://arenascan.com/the-slime-s-livestream-star-chapter-5/",
+    "total_chapters": 5,
     "first_seen": "2026-10-21T23:00:25Z"
   },
   {
