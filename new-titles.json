@@ -33,6 +33,28 @@
     "first_seen": "2026-10-22T03:14:04Z"
   },
   {
+    "id": "talker",
+    "title": "Talker",
+    "series_url": "https://arenascan.com/manga/talker/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-21-02-07-36-1792591656899.jpg",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/talker-chapter-7/",
+    "total_chapters": 7,
+    "first_seen": "2026-10-21T23:00:25Z"
+  },
+  {
+    "id": "the-slime-s-livestream-star",
+    "title": "The Slime’s Livestream Star",
+    "series_url": "https://arenascan.com/manga/the-slime-s-livestream-star/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-19-10-11-08-1792447868646.jpg",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/the-slime-s-livestream-star-chapter-6/",
+    "total_chapters": 6,
+    "first_seen": "2026-10-21T23:00:25Z"
+  },
+  {
     "id": "i-was-mistaken-as-an-s-class-employee",
     "title": "I Was Mistaken as an S-Class Employee",
     "series_url": "https://arenascan.com/manga/i-was-mistaken-as-an-s-class-employee/",
@@ -55,17 +77,6 @@
     "first_seen": "2026-10-21T23:00:25Z"
   },
   {
-    "id": "the-slime-s-livestream-star",
-    "title": "The Slime’s Livestream Star",
-    "series_url": "https://arenascan.com/manga/the-slime-s-livestream-star/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-19-10-11-08-1792447868646.jpg",
-    "latest_chapter": 5.0,
-    "latest_chapter_title": "Chapter 5",
-    "latest_chapter_url": "https://arenascan.com/the-slime-s-livestream-star-chapter-5/",
-    "total_chapters": 5,
-    "first_seen": "2026-10-21T23:00:25Z"
-  },
-  {
     "id": "legend-of-online-gaming",
     "title": "Legend of Online Gaming",
     "series_url": "https://arenascan.com/manga/legend-of-online-gaming/",
@@ -74,17 +85,6 @@
     "latest_chapter_title": "Chapter 4",
     "latest_chapter_url": "https://arenascan.com/legend-of-online-gaming-chapter-4/",
     "total_chapters": 4,
-    "first_seen": "2026-10-21T23:00:25Z"
-  },
-  {
-    "id": "talker",
-    "title": "Talker",
-    "series_url": "https://arenascan.com/manga/talker/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-21-02-07-36-1792591656899.jpg",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/talker-chapter-6/",
-    "total_chapters": 6,
     "first_seen": "2026-10-21T23:00:25Z"
   },
   {
@@ -229,17 +229,6 @@
     "latest_chapter_url": "https://arenascan.com/a-youth-observation-journal-wings-before-the-nest-chapter-9/",
     "total_chapters": 9,
     "first_seen": "2026-10-07T04:13:54Z"
-  },
-  {
-    "id": "my-dragon-girlfriend-has-returned",
-    "title": "My Dragon Girlfriend Has Returned",
-    "series_url": "https://arenascan.com/manga/my-dragon-girlfriend-has-returned/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-29-01-41-03-1790689263302.jpg",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/my-dragon-girlfriend-has-returned-chapter-9/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-06T20:47:00Z"
   },
   {
     "id": "surviving-among-the-heirs",
