@@ -11,6 +11,17 @@
     "first_seen": "2026-10-27T17:26:46Z"
   },
   {
+    "id": "in-honor-of-you-who-survived",
+    "title": "In Honor of You Who Survived",
+    "series_url": "https://arenascan.com/manga/in-honor-of-you-who-survived/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-21-06-55-19-1792608919880.jpg",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/in-honor-of-you-who-survived-chapter-6/",
+    "total_chapters": 6,
+    "first_seen": "2026-10-22T03:14:04Z"
+  },
+  {
     "id": "i-want-you-to-be-happy",
     "title": "I Want You to be Happy",
     "series_url": "https://arenascan.com/manga/i-want-you-to-be-happy/",
@@ -22,15 +33,15 @@
     "first_seen": "2026-10-22T03:14:04Z"
   },
   {
-    "id": "in-honor-of-you-who-survived",
-    "title": "In Honor of You Who Survived",
-    "series_url": "https://arenascan.com/manga/in-honor-of-you-who-survived/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-21-06-55-19-1792608919880.jpg",
-    "latest_chapter": 5.0,
-    "latest_chapter_title": "Chapter 5",
-    "latest_chapter_url": "https://arenascan.com/in-honor-of-you-who-survived-chapter-5/",
-    "total_chapters": 5,
-    "first_seen": "2026-10-22T03:14:04Z"
+    "id": "legend-of-online-gaming",
+    "title": "Legend of Online Gaming",
+    "series_url": "https://arenascan.com/manga/legend-of-online-gaming/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-15-06-34-15-1792089255728.png",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/legend-of-online-gaming-chapter-6/",
+    "total_chapters": 6,
+    "first_seen": "2026-10-21T23:00:25Z"
   },
   {
     "id": "talker",
@@ -74,17 +85,6 @@
     "latest_chapter_title": "Chapter 6",
     "latest_chapter_url": "https://arenascan.com/the-newbie-civil-servant-hunts-villains-before-going-home-chapter-6/",
     "total_chapters": 6,
-    "first_seen": "2026-10-21T23:00:25Z"
-  },
-  {
-    "id": "legend-of-online-gaming",
-    "title": "Legend of Online Gaming",
-    "series_url": "https://arenascan.com/manga/legend-of-online-gaming/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-15-06-34-15-1792089255728.png",
-    "latest_chapter": 4.0,
-    "latest_chapter_title": "Chapter 4",
-    "latest_chapter_url": "https://arenascan.com/legend-of-online-gaming-chapter-4/",
-    "total_chapters": 4,
     "first_seen": "2026-10-21T23:00:25Z"
   },
   {
@@ -306,17 +306,6 @@
     "latest_chapter_url": "https://arenascan.com/copy-skills-with-affinity-chapter-8/",
     "total_chapters": 8,
     "first_seen": "2026-10-02T17:25:52Z"
-  },
-  {
-    "id": "the-principal-wife",
-    "title": "The Principal Wife",
-    "series_url": "https://arenascan.com/manga/the-principal-wife/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/085de2cc1280.webp",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/the-principal-wife-chapter-8/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-02T03:59:21Z"
   },
   {
     "id": "the-otherworldly-everything-store",
