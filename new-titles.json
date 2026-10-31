@@ -341,28 +341,6 @@
     "first_seen": "2026-10-01T20:47:02Z"
   },
   {
-    "id": "the-cursed-villainess-bought-as-a-toy-i-became-the-perfect-prince-s-one-and-only-obsession",
-    "title": "The Cursed Villainess: Bought as a Toy, I Became the Perfect Prince’s One and Only Obsession!?",
-    "series_url": "https://arenascan.com/manga/the-cursed-villainess-bought-as-a-toy-i-became-the-perfect-prince-s-one-and-only-obsession/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-15-05-09-26-1786813766838.jpg",
-    "latest_chapter": 3.1,
-    "latest_chapter_title": "Chapter 3.1",
-    "latest_chapter_url": "https://arenascan.com/the-cursed-villainess-bought-as-a-toy-i-became-the-perfect-prince-s-one-and-only-obsession-chapter-3-1/",
-    "total_chapters": 4,
-    "first_seen": "2026-10-01T15:04:21Z"
-  },
-  {
-    "id": "i-offered-cup-noodles-to-the-gods",
-    "title": "I Offered Cup Noodles to the Gods",
-    "series_url": "https://arenascan.com/manga/i-offered-cup-noodles-to-the-gods/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-23-01-57-29-1790171849976.jpg",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/i-offered-cup-noodles-to-the-gods-chapter-8/",
-    "total_chapters": 8,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
     "id": "we-beat-the-demon-lord-so-let-s-go-home",
     "title": "We Beat The Demon Lord So Let’s go Home",
     "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
@@ -382,6 +360,17 @@
     "latest_chapter_title": "Chapter 7",
     "latest_chapter_url": "https://arenascan.com/dog-eat-dog-chapter-7/",
     "total_chapters": 7,
+    "first_seen": "2026-10-01T05:56:52Z"
+  },
+  {
+    "id": "i-offered-cup-noodles-to-the-gods",
+    "title": "I Offered Cup Noodles to the Gods",
+    "series_url": "https://arenascan.com/manga/i-offered-cup-noodles-to-the-gods/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-23-01-57-29-1790171849976.jpg",
+    "latest_chapter": 8.0,
+    "latest_chapter_title": "Chapter 8",
+    "latest_chapter_url": "https://arenascan.com/i-offered-cup-noodles-to-the-gods-chapter-8/",
+    "total_chapters": 8,
     "first_seen": "2026-10-01T05:56:52Z"
   }
 ]
