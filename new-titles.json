@@ -1,5 +1,93 @@
 [
   {
+    "id": "d-day-romance",
+    "title": "D-Day Romance",
+    "series_url": "https://arenascan.com/manga/d-day-romance/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/862f09c1b4db.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/d-day-romance-chapter-7/",
+    "total_chapters": 8,
+    "first_seen": "2026-11-01T14:43:13Z"
+  },
+  {
+    "id": "xx-boyfriend",
+    "title": "XX Boyfriend",
+    "series_url": "https://arenascan.com/manga/xx-boyfriend/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/4efcce9c8f3e.webp",
+    "latest_chapter": 5.0,
+    "latest_chapter_title": "Chapter 5",
+    "latest_chapter_url": "https://arenascan.com/xx-boyfriend-chapter-5/",
+    "total_chapters": 6,
+    "first_seen": "2026-11-01T14:43:13Z"
+  },
+  {
+    "id": "switch-boyfriend",
+    "title": "Switch Boyfriend",
+    "series_url": "https://arenascan.com/manga/switch-boyfriend/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/f14ddcd5f33c.webp",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/switch-boyfriend-chapter-6/",
+    "total_chapters": 7,
+    "first_seen": "2026-11-01T14:43:13Z"
+  },
+  {
+    "id": "punish-me-your-grace",
+    "title": "Punish Me, Your Grace!",
+    "series_url": "https://arenascan.com/manga/punish-me-your-grace/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/278f50b7ef53.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/punish-me-your-grace-chapter-7/",
+    "total_chapters": 8,
+    "first_seen": "2026-11-01T14:43:13Z"
+  },
+  {
+    "id": "second-skin",
+    "title": "Second Skin",
+    "series_url": "https://arenascan.com/manga/second-skin/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/fed1271e2dbb.webp",
+    "latest_chapter": 4.0,
+    "latest_chapter_title": "Chapter 4",
+    "latest_chapter_url": "https://arenascan.com/second-skin-chapter-4/",
+    "total_chapters": 4,
+    "first_seen": "2026-11-01T14:43:13Z"
+  },
+  {
+    "id": "genius-knight-of-a-ruined-race",
+    "title": "Genius Knight of a Ruined Race",
+    "series_url": "https://arenascan.com/manga/genius-knight-of-a-ruined-race/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/fb308ccaf8f4.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/genius-knight-of-a-ruined-race-chapter-7/",
+    "total_chapters": 8,
+    "first_seen": "2026-11-01T14:43:13Z"
+  },
+  {
+    "id": "ero-ero-ajeossi-series",
+    "title": "Ero Ero, Ajeossi♡ Series",
+    "series_url": "https://arenascan.com/manga/ero-ero-ajeossi-series/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/7afeb4b0acf1.webp",
+    "latest_chapter": 5.0,
+    "latest_chapter_title": "Chapter 5",
+    "latest_chapter_url": "https://arenascan.com/ero-ero-ajeossi-series-chapter-5/",
+    "total_chapters": 5,
+    "first_seen": "2026-11-01T14:43:13Z"
+  },
+  {
+    "id": "the-academy-s-new-student-is-the-hidden-disciple-of-a-legendary-sect",
+    "title": "The Academy’s New Student Is the Hidden Disciple of a Legendary Sect",
+    "series_url": "https://arenascan.com/manga/the-academy-s-new-student-is-the-hidden-disciple-of-a-legendary-sect/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/5654a235b35f.webp",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/the-academy-s-new-student-is-the-hidden-disciple-of-a-legendary-sect-chapter-6/",
+    "total_chapters": 6,
+    "first_seen": "2026-11-01T14:43:13Z"
+  },
+  {
     "id": "game-invasion-i-awakened-two-talents-at-the-start",
     "title": "Game Invasion: I Awakened Two Talents at the Start!",
     "series_url": "https://arenascan.com/manga/game-invasion-i-awakened-two-talents-at-the-start/",
@@ -338,28 +426,6 @@
     "latest_chapter_title": "Chapter 8",
     "latest_chapter_url": "https://arenascan.com/i-offered-cup-noodles-to-the-gods-chapter-8/",
     "total_chapters": 8,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "we-beat-the-demon-lord-so-let-s-go-home",
-    "title": "We Beat The Demon Lord So Let’s go Home",
-    "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-18-05-28-18-1787074098167.jpg",
-    "latest_chapter": 3.4,
-    "latest_chapter_title": "Chapter 3.4",
-    "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-3-4/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-01T05:56:52Z"
-  },
-  {
-    "id": "dog-eat-dog",
-    "title": "Dog Eat Dog",
-    "series_url": "https://arenascan.com/manga/dog-eat-dog/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-21-05-55-59-1787334959595.png",
-    "latest_chapter": 7.0,
-    "latest_chapter_title": "Chapter 7",
-    "latest_chapter_url": "https://arenascan.com/dog-eat-dog-chapter-7/",
-    "total_chapters": 7,
     "first_seen": "2026-10-01T05:56:52Z"
   }
 ]
