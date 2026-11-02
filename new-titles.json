@@ -1,16 +1,5 @@
 [
   {
-    "id": "ms-lilina-the-guild-receptionist-is-cold-only-to-me",
-    "title": "Ms. Lilina, the guild receptionist, is cold only to me",
-    "series_url": "https://arenascan.com/manga/ms-lilina-the-guild-receptionist-is-cold-only-to-me/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-29-11-39-11-1790681951334.jpg",
-    "latest_chapter": 2.2,
-    "latest_chapter_title": "Chapter 2.2",
-    "latest_chapter_url": "https://arenascan.com/ms-lilina-the-guild-receptionist-is-cold-only-to-me-chapter-2-2/",
-    "total_chapters": 3,
-    "first_seen": "2026-11-02T04:20:12Z"
-  },
-  {
     "id": "we-beat-the-demon-lord-so-let-s-go-home",
     "title": "We Beat The Demon Lord So Let’s go Home",
     "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
@@ -30,6 +19,17 @@
     "latest_chapter_title": "Chapter 8",
     "latest_chapter_url": "https://arenascan.com/dog-eat-dog-chapter-8/",
     "total_chapters": 8,
+    "first_seen": "2026-11-02T04:20:12Z"
+  },
+  {
+    "id": "ms-lilina-the-guild-receptionist-is-cold-only-to-me",
+    "title": "Ms. Lilina, the guild receptionist, is cold only to me",
+    "series_url": "https://arenascan.com/manga/ms-lilina-the-guild-receptionist-is-cold-only-to-me/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-29-11-39-11-1790681951334.jpg",
+    "latest_chapter": 2.2,
+    "latest_chapter_title": "Chapter 2.2",
+    "latest_chapter_url": "https://arenascan.com/ms-lilina-the-guild-receptionist-is-cold-only-to-me-chapter-2-2/",
+    "total_chapters": 3,
     "first_seen": "2026-11-02T04:20:12Z"
   },
   {
@@ -176,17 +176,6 @@
     "first_seen": "2026-10-30T04:18:44Z"
   },
   {
-    "id": "i-became-the-youngest-martial-god-level-warrior",
-    "title": "I Became the Youngest Martial God-Level Warrior",
-    "series_url": "https://arenascan.com/manga/i-became-the-youngest-martial-god-level-warrior/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-27-01-46-30-1790516790034.jpg",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/i-became-the-youngest-martial-god-level-warrior-chapter-6/",
-    "total_chapters": 6,
-    "first_seen": "2026-10-27T17:26:46Z"
-  },
-  {
     "id": "in-honor-of-you-who-survived",
     "title": "In Honor of You Who Survived",
     "series_url": "https://arenascan.com/manga/in-honor-of-you-who-survived/",
@@ -207,6 +196,28 @@
     "latest_chapter_url": "https://arenascan.com/i-want-you-to-be-happy-chapter-1/",
     "total_chapters": 2,
     "first_seen": "2026-10-22T03:14:04Z"
+  },
+  {
+    "id": "talker",
+    "title": "Talker",
+    "series_url": "https://arenascan.com/manga/talker/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-21-02-07-36-1792591656899.jpg",
+    "latest_chapter": 8.0,
+    "latest_chapter_title": "Chapter 8",
+    "latest_chapter_url": "https://arenascan.com/talker-chapter-8/",
+    "total_chapters": 8,
+    "first_seen": "2026-10-21T23:00:25Z"
+  },
+  {
+    "id": "the-newbie-civil-servant-hunts-villains-before-going-home",
+    "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+    "series_url": "https://arenascan.com/manga/the-newbie-civil-servant-hunts-villains-before-going-home/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-18-05-03-47-1792343027072.jpeg",
+    "latest_chapter": 8.0,
+    "latest_chapter_title": "Chapter 8",
+    "latest_chapter_url": "https://arenascan.com/the-newbie-civil-servant-hunts-villains-before-going-home-chapter-8/",
+    "total_chapters": 8,
+    "first_seen": "2026-10-21T23:00:25Z"
   },
   {
     "id": "for-psyche",
@@ -231,17 +242,6 @@
     "first_seen": "2026-10-21T23:00:25Z"
   },
   {
-    "id": "talker",
-    "title": "Talker",
-    "series_url": "https://arenascan.com/manga/talker/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-21-02-07-36-1792591656899.jpg",
-    "latest_chapter": 7.0,
-    "latest_chapter_title": "Chapter 7",
-    "latest_chapter_url": "https://arenascan.com/talker-chapter-7/",
-    "total_chapters": 7,
-    "first_seen": "2026-10-21T23:00:25Z"
-  },
-  {
     "id": "the-slime-s-livestream-star",
     "title": "The Slime’s Livestream Star",
     "series_url": "https://arenascan.com/manga/the-slime-s-livestream-star/",
@@ -260,17 +260,6 @@
     "latest_chapter": 6.0,
     "latest_chapter_title": "Chapter 6",
     "latest_chapter_url": "https://arenascan.com/i-was-mistaken-as-an-s-class-employee-chapter-6/",
-    "total_chapters": 6,
-    "first_seen": "2026-10-21T23:00:25Z"
-  },
-  {
-    "id": "the-newbie-civil-servant-hunts-villains-before-going-home",
-    "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-    "series_url": "https://arenascan.com/manga/the-newbie-civil-servant-hunts-villains-before-going-home/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-18-05-03-47-1792343027072.jpeg",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/the-newbie-civil-servant-hunts-villains-before-going-home-chapter-6/",
     "total_chapters": 6,
     "first_seen": "2026-10-21T23:00:25Z"
   },
@@ -460,16 +449,5 @@
     "latest_chapter_url": "https://arenascan.com/park-sujin-and-baek-seojeong-chapter-8/",
     "total_chapters": 8,
     "first_seen": "2026-10-03T22:39:36Z"
-  },
-  {
-    "id": "there-s-no-king-sejong-in-my-joseon",
-    "title": "There’s No King Sejong in My Joseon",
-    "series_url": "https://arenascan.com/manga/there-s-no-king-sejong-in-my-joseon/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-09-26-04-19-34-1790439574839.webp",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/there-s-no-king-sejong-in-my-joseon-chapter-8/",
-    "total_chapters": 8,
-    "first_seen": "2026-10-03T18:59:29Z"
   }
 ]
