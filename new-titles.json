@@ -1,5 +1,16 @@
 [
   {
+    "id": "blade-of-the-discarded",
+    "title": "Blade of the Discarded",
+    "series_url": "https://arenascan.com/manga/blade-of-the-discarded/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/ff6eb50cb19d.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/blade-of-the-discarded-chapter-7/",
+    "total_chapters": 8,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
     "id": "youkai-come-to-a-country-teahouse",
     "title": "Youkai Come to a Country Teahouse",
     "series_url": "https://arenascan.com/manga/youkai-come-to-a-country-teahouse/",
@@ -85,17 +96,6 @@
     "latest_chapter_title": "Chapter 2",
     "latest_chapter_url": "https://arenascan.com/chronicles-of-the-three-realms-king-of-the-world-chapter-2/",
     "total_chapters": 2,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
-    "id": "blade-of-the-discarded",
-    "title": "Blade of the Discarded",
-    "series_url": "https://arenascan.com/manga/blade-of-the-discarded/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/ff6eb50cb19d.webp",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/blade-of-the-discarded-chapter-6/",
-    "total_chapters": 7,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
@@ -592,16 +592,5 @@
     "latest_chapter_url": "https://arenascan.com/the-impossible-delivery-chapter-9/",
     "total_chapters": 9,
     "first_seen": "2026-10-05T03:58:42Z"
-  },
-  {
-    "id": "sergeant-would-you-pick-up-the-soap",
-    "title": "Sergeant Would You Pick Up the Soap?",
-    "series_url": "https://arenascan.com/manga/sergeant-would-you-pick-up-the-soap/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/125ad366dad6.webp",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/sergeant-would-you-pick-up-the-soap-chapter-9/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-04T19:09:29Z"
   }
 ]
