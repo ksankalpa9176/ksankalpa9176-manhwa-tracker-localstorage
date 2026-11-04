@@ -1,5 +1,16 @@
 [
   {
+    "id": "save-the-sunfish-princess",
+    "title": "Save the Sunfish Princess!",
+    "series_url": "https://arenascan.com/manga/save-the-sunfish-princess/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/773843194f5e.webp",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/save-the-sunfish-princess-chapter-6/",
+    "total_chapters": 7,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
     "id": "blade-of-the-discarded",
     "title": "Blade of the Discarded",
     "series_url": "https://arenascan.com/manga/blade-of-the-discarded/",
@@ -8,17 +19,6 @@
     "latest_chapter_title": "Chapter 7",
     "latest_chapter_url": "https://arenascan.com/blade-of-the-discarded-chapter-7/",
     "total_chapters": 8,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
-    "id": "youkai-come-to-a-country-teahouse",
-    "title": "Youkai Come to a Country Teahouse",
-    "series_url": "https://arenascan.com/manga/youkai-come-to-a-country-teahouse/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/021811029a9b.webp",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/youkai-come-to-a-country-teahouse-chapter-6/",
-    "total_chapters": 7,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
@@ -66,17 +66,6 @@
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
-    "id": "save-the-sunfish-princess",
-    "title": "Save the Sunfish Princess!",
-    "series_url": "https://arenascan.com/manga/save-the-sunfish-princess/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/773843194f5e.webp",
-    "latest_chapter": 5.0,
-    "latest_chapter_title": "Chapter 5",
-    "latest_chapter_url": "https://arenascan.com/save-the-sunfish-princess-chapter-5/",
-    "total_chapters": 6,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
     "id": "i-plan-to-end-this-possession",
     "title": "I Plan to End This Possession",
     "series_url": "https://arenascan.com/manga/i-plan-to-end-this-possession/",
@@ -96,6 +85,17 @@
     "latest_chapter_title": "Chapter 2",
     "latest_chapter_url": "https://arenascan.com/chronicles-of-the-three-realms-king-of-the-world-chapter-2/",
     "total_chapters": 2,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
+    "id": "youkai-come-to-a-country-teahouse",
+    "title": "Youkai Come to a Country Teahouse",
+    "series_url": "https://arenascan.com/manga/youkai-come-to-a-country-teahouse/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/021811029a9b.webp",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/youkai-come-to-a-country-teahouse-chapter-6/",
+    "total_chapters": 7,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
@@ -570,27 +570,5 @@
     "latest_chapter_url": "https://arenascan.com/surviving-among-the-heirs-chapter-9/",
     "total_chapters": 9,
     "first_seen": "2026-10-06T04:47:51Z"
-  },
-  {
-    "id": "the-executed-villainess-rewinds-time-to-take-her-revenge",
-    "title": "The Executed Villainess Rewinds Time to Take Her Revenge",
-    "series_url": "https://arenascan.com/manga/the-executed-villainess-rewinds-time-to-take-her-revenge/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-06-04-39-55-1786034395113.png",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/the-executed-villainess-rewinds-time-to-take-her-revenge-chapter-8/",
-    "total_chapters": 8,
-    "first_seen": "2026-10-05T03:58:42Z"
-  },
-  {
-    "id": "the-impossible-delivery",
-    "title": "The Impossible Delivery",
-    "series_url": "https://arenascan.com/manga/the-impossible-delivery/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/fc4eab07-5808-465a-b32a-7cb502ee0acd.webp",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/the-impossible-delivery-chapter-9/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-05T03:58:42Z"
   }
 ]
