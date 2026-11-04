@@ -1,5 +1,16 @@
 [
   {
+    "id": "this-man-needs-repair",
+    "title": "This Man Needs Repair",
+    "series_url": "https://arenascan.com/manga/this-man-needs-repair/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/101c2c8ed6ba.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/this-man-needs-repair-chapter-7/",
+    "total_chapters": 7,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
     "id": "save-the-sunfish-princess",
     "title": "Save the Sunfish Princess!",
     "series_url": "https://arenascan.com/manga/save-the-sunfish-princess/",
@@ -11,6 +22,17 @@
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
+    "id": "first-love-trap",
+    "title": "First Love Trap",
+    "series_url": "https://arenascan.com/manga/first-love-trap/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/b42836fb181c.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/first-love-trap-chapter-7/",
+    "total_chapters": 8,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
     "id": "blade-of-the-discarded",
     "title": "Blade of the Discarded",
     "series_url": "https://arenascan.com/manga/blade-of-the-discarded/",
@@ -19,17 +41,6 @@
     "latest_chapter_title": "Chapter 7",
     "latest_chapter_url": "https://arenascan.com/blade-of-the-discarded-chapter-7/",
     "total_chapters": 8,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
-    "id": "this-man-needs-repair",
-    "title": "This Man Needs Repair",
-    "series_url": "https://arenascan.com/manga/this-man-needs-repair/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/101c2c8ed6ba.webp",
-    "latest_chapter": 5.0,
-    "latest_chapter_title": "Chapter 5",
-    "latest_chapter_url": "https://arenascan.com/this-man-needs-repair-chapter-5/",
-    "total_chapters": 6,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
@@ -52,17 +63,6 @@
     "latest_chapter_title": "Chapter 6",
     "latest_chapter_url": "https://arenascan.com/lie-boldly-chapter-6/",
     "total_chapters": 7,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
-    "id": "first-love-trap",
-    "title": "First Love Trap",
-    "series_url": "https://arenascan.com/manga/first-love-trap/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/b42836fb181c.webp",
-    "latest_chapter": 7.0,
-    "latest_chapter_title": "Chapter 7",
-    "latest_chapter_url": "https://arenascan.com/first-love-trap-chapter-7/",
-    "total_chapters": 8,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
