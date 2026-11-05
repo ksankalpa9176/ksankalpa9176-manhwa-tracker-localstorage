@@ -1,16 +1,5 @@
 [
   {
-    "id": "this-man-needs-repair",
-    "title": "This Man Needs Repair",
-    "series_url": "https://arenascan.com/manga/this-man-needs-repair/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/101c2c8ed6ba.webp",
-    "latest_chapter": 7.0,
-    "latest_chapter_title": "Chapter 7",
-    "latest_chapter_url": "https://arenascan.com/this-man-needs-repair-chapter-7/",
-    "total_chapters": 7,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
     "id": "save-the-sunfish-princess",
     "title": "Save the Sunfish Princess!",
     "series_url": "https://arenascan.com/manga/save-the-sunfish-princess/",
@@ -30,6 +19,17 @@
     "latest_chapter_title": "Chapter 7",
     "latest_chapter_url": "https://arenascan.com/first-love-trap-chapter-7/",
     "total_chapters": 8,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
+    "id": "this-man-needs-repair",
+    "title": "This Man Needs Repair",
+    "series_url": "https://arenascan.com/manga/this-man-needs-repair/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/101c2c8ed6ba.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/this-man-needs-repair-chapter-7/",
+    "total_chapters": 7,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
@@ -363,6 +363,28 @@
     "first_seen": "2026-10-22T03:14:04Z"
   },
   {
+    "id": "talker",
+    "title": "Talker",
+    "series_url": "https://arenascan.com/manga/talker/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-21-02-07-36-1792591656899.jpg",
+    "latest_chapter": 9.0,
+    "latest_chapter_title": "Chapter 9",
+    "latest_chapter_url": "https://arenascan.com/talker-chapter-9/",
+    "total_chapters": 9,
+    "first_seen": "2026-10-21T23:00:25Z"
+  },
+  {
+    "id": "the-slime-s-livestream-star",
+    "title": "The Slime’s Livestream Star",
+    "series_url": "https://arenascan.com/manga/the-slime-s-livestream-star/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-19-10-11-08-1792447868646.jpg",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/the-slime-s-livestream-star-chapter-7/",
+    "total_chapters": 7,
+    "first_seen": "2026-10-21T23:00:25Z"
+  },
+  {
     "id": "the-newbie-civil-servant-hunts-villains-before-going-home",
     "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
     "series_url": "https://arenascan.com/manga/the-newbie-civil-servant-hunts-villains-before-going-home/",
@@ -385,17 +407,6 @@
     "first_seen": "2026-10-21T23:00:25Z"
   },
   {
-    "id": "talker",
-    "title": "Talker",
-    "series_url": "https://arenascan.com/manga/talker/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-21-02-07-36-1792591656899.jpg",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/talker-chapter-8/",
-    "total_chapters": 8,
-    "first_seen": "2026-10-21T23:00:25Z"
-  },
-  {
     "id": "legend-of-online-gaming",
     "title": "Legend of Online Gaming",
     "series_url": "https://arenascan.com/manga/legend-of-online-gaming/",
@@ -403,17 +414,6 @@
     "latest_chapter": 6.0,
     "latest_chapter_title": "Chapter 6",
     "latest_chapter_url": "https://arenascan.com/legend-of-online-gaming-chapter-6/",
-    "total_chapters": 6,
-    "first_seen": "2026-10-21T23:00:25Z"
-  },
-  {
-    "id": "the-slime-s-livestream-star",
-    "title": "The Slime’s Livestream Star",
-    "series_url": "https://arenascan.com/manga/the-slime-s-livestream-star/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-19-10-11-08-1792447868646.jpg",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/the-slime-s-livestream-star-chapter-6/",
     "total_chapters": 6,
     "first_seen": "2026-10-21T23:00:25Z"
   },
@@ -548,17 +548,6 @@
     "latest_chapter_url": "https://arenascan.com/i-reincarnated-as-a-farmer-with-the-weakest-class-chapter-2-2/",
     "total_chapters": 7,
     "first_seen": "2026-10-10T04:15:40Z"
-  },
-  {
-    "id": "a-youth-observation-journal-wings-before-the-nest",
-    "title": "A Youth Observation Journal: Wings Before the Nest",
-    "series_url": "https://arenascan.com/manga/a-youth-observation-journal-wings-before-the-nest/",
-    "cover_url": "https://arenascan.com/wp-content/uploads/2025/10/351ee51e-f01c-403a-859d-b9fba6dd4409.webp",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/a-youth-observation-journal-wings-before-the-nest-chapter-9/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-07T04:13:54Z"
   },
   {
     "id": "surviving-among-the-heirs",
