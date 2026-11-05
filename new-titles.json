@@ -1,27 +1,5 @@
 [
   {
-    "id": "save-the-sunfish-princess",
-    "title": "Save the Sunfish Princess!",
-    "series_url": "https://arenascan.com/manga/save-the-sunfish-princess/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/773843194f5e.webp",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/save-the-sunfish-princess-chapter-6/",
-    "total_chapters": 7,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
-    "id": "first-love-trap",
-    "title": "First Love Trap",
-    "series_url": "https://arenascan.com/manga/first-love-trap/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/b42836fb181c.webp",
-    "latest_chapter": 7.0,
-    "latest_chapter_title": "Chapter 7",
-    "latest_chapter_url": "https://arenascan.com/first-love-trap-chapter-7/",
-    "total_chapters": 8,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
     "id": "this-man-needs-repair",
     "title": "This Man Needs Repair",
     "series_url": "https://arenascan.com/manga/this-man-needs-repair/",
@@ -33,6 +11,17 @@
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
+    "id": "save-the-sunfish-princess",
+    "title": "Save the Sunfish Princess!",
+    "series_url": "https://arenascan.com/manga/save-the-sunfish-princess/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/773843194f5e.webp",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/save-the-sunfish-princess-chapter-6/",
+    "total_chapters": 7,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
     "id": "blade-of-the-discarded",
     "title": "Blade of the Discarded",
     "series_url": "https://arenascan.com/manga/blade-of-the-discarded/",
@@ -40,6 +29,17 @@
     "latest_chapter": 7.0,
     "latest_chapter_title": "Chapter 7",
     "latest_chapter_url": "https://arenascan.com/blade-of-the-discarded-chapter-7/",
+    "total_chapters": 8,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
+    "id": "first-love-trap",
+    "title": "First Love Trap",
+    "series_url": "https://arenascan.com/manga/first-love-trap/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/b42836fb181c.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/first-love-trap-chapter-7/",
     "total_chapters": 8,
     "first_seen": "2026-11-03T01:59:07Z"
   },
@@ -165,17 +165,6 @@
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
-    "id": "a-tiger-caught-in-a-tra",
-    "title": "A Tiger Caught in a Tra",
-    "series_url": "https://arenascan.com/manga/a-tiger-caught-in-a-tra/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/1dcefc4d26bf.webp",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/a-tiger-caught-in-a-tra-chapter-8/",
-    "total_chapters": 8,
-    "first_seen": "2026-11-02T04:20:12Z"
-  },
-  {
     "id": "we-beat-the-demon-lord-so-let-s-go-home",
     "title": "We Beat The Demon Lord So Let’s go Home",
     "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
@@ -184,6 +173,17 @@
     "latest_chapter_title": "Chapter 3.4",
     "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-3-4/",
     "total_chapters": 9,
+    "first_seen": "2026-11-02T04:20:12Z"
+  },
+  {
+    "id": "a-tiger-caught-in-a-tra",
+    "title": "A Tiger Caught in a Tra",
+    "series_url": "https://arenascan.com/manga/a-tiger-caught-in-a-tra/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/1dcefc4d26bf.webp",
+    "latest_chapter": 8.0,
+    "latest_chapter_title": "Chapter 8",
+    "latest_chapter_url": "https://arenascan.com/a-tiger-caught-in-a-tra-chapter-8/",
+    "total_chapters": 8,
     "first_seen": "2026-11-02T04:20:12Z"
   },
   {
@@ -548,16 +548,5 @@
     "latest_chapter_url": "https://arenascan.com/i-reincarnated-as-a-farmer-with-the-weakest-class-chapter-2-2/",
     "total_chapters": 7,
     "first_seen": "2026-10-10T04:15:40Z"
-  },
-  {
-    "id": "surviving-among-the-heirs",
-    "title": "Surviving Among the Heirs",
-    "series_url": "https://arenascan.com/manga/surviving-among-the-heirs/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/4392708e-e1e2-4a34-91bc-eac48e10c69b.webp",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/surviving-among-the-heirs-chapter-9/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-06T04:47:51Z"
   }
 ]
