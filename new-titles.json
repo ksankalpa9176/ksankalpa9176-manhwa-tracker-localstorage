@@ -1,5 +1,16 @@
 [
   {
+    "id": "my-skill-bar-is-full-of-monsters",
+    "title": "My Skill Bar Is Full of Monsters",
+    "series_url": "https://arenascan.com/manga/my-skill-bar-is-full-of-monsters/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/e766bca94523.webp",
+    "latest_chapter": 2.0,
+    "latest_chapter_title": "Chapter 2",
+    "latest_chapter_url": "https://arenascan.com/my-skill-bar-is-full-of-monsters-chapter-2/",
+    "total_chapters": 2,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
     "id": "this-man-needs-repair",
     "title": "This Man Needs Repair",
     "series_url": "https://arenascan.com/manga/this-man-needs-repair/",
@@ -121,17 +132,6 @@
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
-    "id": "my-skill-bar-is-full-of-monsters",
-    "title": "My Skill Bar Is Full of Monsters",
-    "series_url": "https://arenascan.com/manga/my-skill-bar-is-full-of-monsters/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/e766bca94523.webp",
-    "latest_chapter": 1.0,
-    "latest_chapter_title": "Chapter 1",
-    "latest_chapter_url": "https://arenascan.com/my-skill-bar-is-full-of-monsters-chapter-1/",
-    "total_chapters": 1,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
     "id": "my-artifact-stats-stack-infinitely",
     "title": "My Artifact Stats Stack Infinitely",
     "series_url": "https://arenascan.com/manga/my-artifact-stats-stack-infinitely/",
@@ -165,6 +165,17 @@
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
+    "id": "dog-eat-dog",
+    "title": "Dog Eat Dog",
+    "series_url": "https://arenascan.com/manga/dog-eat-dog/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-21-05-55-59-1787334959595.png",
+    "latest_chapter": 8.0,
+    "latest_chapter_title": "Chapter 8",
+    "latest_chapter_url": "https://arenascan.com/dog-eat-dog-chapter-8/",
+    "total_chapters": 8,
+    "first_seen": "2026-11-02T04:20:12Z"
+  },
+  {
     "id": "we-beat-the-demon-lord-so-let-s-go-home",
     "title": "We Beat The Demon Lord So Let’s go Home",
     "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
@@ -183,17 +194,6 @@
     "latest_chapter": 8.0,
     "latest_chapter_title": "Chapter 8",
     "latest_chapter_url": "https://arenascan.com/a-tiger-caught-in-a-tra-chapter-8/",
-    "total_chapters": 8,
-    "first_seen": "2026-11-02T04:20:12Z"
-  },
-  {
-    "id": "dog-eat-dog",
-    "title": "Dog Eat Dog",
-    "series_url": "https://arenascan.com/manga/dog-eat-dog/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-21-05-55-59-1787334959595.png",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/dog-eat-dog-chapter-8/",
     "total_chapters": 8,
     "first_seen": "2026-11-02T04:20:12Z"
   },
@@ -341,6 +341,17 @@
     "first_seen": "2026-10-30T04:18:44Z"
   },
   {
+    "id": "i-want-you-to-be-happy",
+    "title": "I Want You to be Happy",
+    "series_url": "https://arenascan.com/manga/i-want-you-to-be-happy/",
+    "cover_url": "https://arenascan.com/wp-content/uploads/2025/07/791ab3e9-95c5-4e2d-ae90-0088fa8e494a.jpg",
+    "latest_chapter": 1.0,
+    "latest_chapter_title": "Chapter 1",
+    "latest_chapter_url": "https://arenascan.com/i-want-you-to-be-happy-chapter-1/",
+    "total_chapters": 2,
+    "first_seen": "2026-10-22T03:14:04Z"
+  },
+  {
     "id": "in-honor-of-you-who-survived",
     "title": "In Honor of You Who Survived",
     "series_url": "https://arenascan.com/manga/in-honor-of-you-who-survived/",
@@ -352,15 +363,15 @@
     "first_seen": "2026-10-22T03:14:04Z"
   },
   {
-    "id": "i-want-you-to-be-happy",
-    "title": "I Want You to be Happy",
-    "series_url": "https://arenascan.com/manga/i-want-you-to-be-happy/",
-    "cover_url": "https://arenascan.com/wp-content/uploads/2025/07/791ab3e9-95c5-4e2d-ae90-0088fa8e494a.jpg",
-    "latest_chapter": 1.0,
-    "latest_chapter_title": "Chapter 1",
-    "latest_chapter_url": "https://arenascan.com/i-want-you-to-be-happy-chapter-1/",
-    "total_chapters": 2,
-    "first_seen": "2026-10-22T03:14:04Z"
+    "id": "legend-of-online-gaming",
+    "title": "Legend of Online Gaming",
+    "series_url": "https://arenascan.com/manga/legend-of-online-gaming/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-15-06-34-15-1792089255728.png",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/legend-of-online-gaming-chapter-7/",
+    "total_chapters": 7,
+    "first_seen": "2026-10-21T23:00:25Z"
   },
   {
     "id": "talker",
@@ -403,17 +414,6 @@
     "latest_chapter": 5.0,
     "latest_chapter_title": "Chapter 5",
     "latest_chapter_url": "https://arenascan.com/for-psyche-chapter-5/",
-    "total_chapters": 6,
-    "first_seen": "2026-10-21T23:00:25Z"
-  },
-  {
-    "id": "legend-of-online-gaming",
-    "title": "Legend of Online Gaming",
-    "series_url": "https://arenascan.com/manga/legend-of-online-gaming/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-15-06-34-15-1792089255728.png",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/legend-of-online-gaming-chapter-6/",
     "total_chapters": 6,
     "first_seen": "2026-10-21T23:00:25Z"
   },
