@@ -1,5 +1,16 @@
 [
   {
+    "id": "cyberpunk-chivalry",
+    "title": "Cyberpunk Chivalry",
+    "series_url": "https://arenascan.com/manga/cyberpunk-chivalry/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-11-05-02-39-49-1793889589705.webp",
+    "latest_chapter": 6.0,
+    "latest_chapter_title": "Chapter 6",
+    "latest_chapter_url": "https://arenascan.com/cyberpunk-chivalry-chapter-6/",
+    "total_chapters": 6,
+    "first_seen": "2026-11-10T21:38:26Z"
+  },
+  {
     "id": "the-executed-villainess-rewinds-time-to-take-her-revenge",
     "title": "The Executed Villainess Rewinds Time to Take Her Revenge",
     "series_url": "https://arenascan.com/manga/the-executed-villainess-rewinds-time-to-take-her-revenge/",
@@ -31,6 +42,17 @@
     "latest_chapter_url": "https://arenascan.com/the-cursed-villainess-bought-as-a-toy-i-became-the-perfect-prince-s-one-and-only-obsession-chapter-3-1/",
     "total_chapters": 4,
     "first_seen": "2026-11-06T18:52:09Z"
+  },
+  {
+    "id": "the-crazy-son-in-law-of-the-northern-duke",
+    "title": "The Crazy Son-in-Law of the Northern Duke",
+    "series_url": "https://arenascan.com/manga/the-crazy-son-in-law-of-the-northern-duke/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/7abca2eef0de.webp",
+    "latest_chapter": 8.0,
+    "latest_chapter_title": "Chapter 8",
+    "latest_chapter_url": "https://arenascan.com/the-crazy-son-in-law-of-the-northern-duke-chapter-8/",
+    "total_chapters": 9,
+    "first_seen": "2026-11-03T01:59:07Z"
   },
   {
     "id": "first-love-trap",
@@ -85,17 +107,6 @@
     "latest_chapter_title": "Chapter 2",
     "latest_chapter_url": "https://arenascan.com/my-artifact-stats-stack-infinitely-chapter-2/",
     "total_chapters": 2,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
-    "id": "the-crazy-son-in-law-of-the-northern-duke",
-    "title": "The Crazy Son-in-Law of the Northern Duke",
-    "series_url": "https://arenascan.com/manga/the-crazy-son-in-law-of-the-northern-duke/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/7abca2eef0de.webp",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/the-crazy-son-in-law-of-the-northern-duke-chapter-6/",
-    "total_chapters": 7,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
@@ -526,16 +537,5 @@
     "latest_chapter_url": "https://arenascan.com/protective-confinement-chapter-5/",
     "total_chapters": 6,
     "first_seen": "2026-10-11T23:26:18Z"
-  },
-  {
-    "id": "the-princess-who-longs-for-death",
-    "title": "The Princess Who Longs for Death",
-    "series_url": "https://arenascan.com/manga/the-princess-who-longs-for-death/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-10-02-58-48-1786373928195.png",
-    "latest_chapter": 3.1,
-    "latest_chapter_title": "Chapter 3.1",
-    "latest_chapter_url": "https://arenascan.com/the-princess-who-longs-for-death-chapter-3-1/",
-    "total_chapters": 5,
-    "first_seen": "2026-10-11T17:18:09Z"
   }
 ]
