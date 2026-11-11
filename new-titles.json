@@ -77,14 +77,14 @@
     "first_seen": "2026-11-06T18:52:09Z"
   },
   {
-    "id": "the-wizard-s-notes",
-    "title": "The Wizard’s Notes",
-    "series_url": "https://arenascan.com/manga/the-wizard-s-notes/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2c033c2044a1.webp",
+    "id": "save-the-sunfish-princess",
+    "title": "Save the Sunfish Princess!",
+    "series_url": "https://arenascan.com/manga/save-the-sunfish-princess/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/773843194f5e.webp",
     "latest_chapter": 7.0,
     "latest_chapter_title": "Chapter 7",
-    "latest_chapter_url": "https://arenascan.com/the-wizard-s-notes-chapter-7/",
-    "total_chapters": 7,
+    "latest_chapter_url": "https://arenascan.com/save-the-sunfish-princess-chapter-7/",
+    "total_chapters": 8,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
@@ -95,6 +95,17 @@
     "latest_chapter": 6.0,
     "latest_chapter_title": "Chapter 6",
     "latest_chapter_url": "https://arenascan.com/youkai-come-to-a-country-teahouse-chapter-6/",
+    "total_chapters": 7,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
+    "id": "the-wizard-s-notes",
+    "title": "The Wizard’s Notes",
+    "series_url": "https://arenascan.com/manga/the-wizard-s-notes/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2c033c2044a1.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/the-wizard-s-notes-chapter-7/",
     "total_chapters": 7,
     "first_seen": "2026-11-03T01:59:07Z"
   },
@@ -194,17 +205,6 @@
     "latest_chapter": 7.0,
     "latest_chapter_title": "Chapter 7",
     "latest_chapter_url": "https://arenascan.com/this-man-needs-repair-chapter-7/",
-    "total_chapters": 7,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
-    "id": "save-the-sunfish-princess",
-    "title": "Save the Sunfish Princess!",
-    "series_url": "https://arenascan.com/manga/save-the-sunfish-princess/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/773843194f5e.webp",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/save-the-sunfish-princess-chapter-6/",
     "total_chapters": 7,
     "first_seen": "2026-11-03T01:59:07Z"
   },
@@ -429,6 +429,17 @@
     "first_seen": "2026-10-22T03:14:04Z"
   },
   {
+    "id": "the-slime-s-livestream-star",
+    "title": "The Slime’s Livestream Star",
+    "series_url": "https://arenascan.com/manga/the-slime-s-livestream-star/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-19-10-11-08-1792447868646.jpg",
+    "latest_chapter": 8.0,
+    "latest_chapter_title": "Chapter 8",
+    "latest_chapter_url": "https://arenascan.com/the-slime-s-livestream-star-chapter-8/",
+    "total_chapters": 8,
+    "first_seen": "2026-10-21T23:00:25Z"
+  },
+  {
     "id": "i-was-mistaken-as-an-s-class-employee",
     "title": "I Was Mistaken as an S-Class Employee",
     "series_url": "https://arenascan.com/manga/i-was-mistaken-as-an-s-class-employee/",
@@ -459,17 +470,6 @@
     "latest_chapter_title": "Chapter 9",
     "latest_chapter_url": "https://arenascan.com/talker-chapter-9/",
     "total_chapters": 9,
-    "first_seen": "2026-10-21T23:00:25Z"
-  },
-  {
-    "id": "the-slime-s-livestream-star",
-    "title": "The Slime’s Livestream Star",
-    "series_url": "https://arenascan.com/manga/the-slime-s-livestream-star/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-19-10-11-08-1792447868646.jpg",
-    "latest_chapter": 7.0,
-    "latest_chapter_title": "Chapter 7",
-    "latest_chapter_url": "https://arenascan.com/the-slime-s-livestream-star-chapter-7/",
-    "total_chapters": 7,
     "first_seen": "2026-10-21T23:00:25Z"
   },
   {
