@@ -88,17 +88,6 @@
     "first_seen": "2026-11-06T18:52:09Z"
   },
   {
-    "id": "save-the-sunfish-princess",
-    "title": "Save the Sunfish Princess!",
-    "series_url": "https://arenascan.com/manga/save-the-sunfish-princess/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/773843194f5e.webp",
-    "latest_chapter": 7.0,
-    "latest_chapter_title": "Chapter 7",
-    "latest_chapter_url": "https://arenascan.com/save-the-sunfish-princess-chapter-7/",
-    "total_chapters": 8,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
     "id": "the-crazy-son-in-law-of-the-northern-duke",
     "title": "The Crazy Son-in-Law of the Northern Duke",
     "series_url": "https://arenascan.com/manga/the-crazy-son-in-law-of-the-northern-duke/",
@@ -107,6 +96,17 @@
     "latest_chapter_title": "Chapter 8",
     "latest_chapter_url": "https://arenascan.com/the-crazy-son-in-law-of-the-northern-duke-chapter-8/",
     "total_chapters": 9,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
+    "id": "save-the-sunfish-princess",
+    "title": "Save the Sunfish Princess!",
+    "series_url": "https://arenascan.com/manga/save-the-sunfish-princess/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/773843194f5e.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/save-the-sunfish-princess-chapter-7/",
+    "total_chapters": 8,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
