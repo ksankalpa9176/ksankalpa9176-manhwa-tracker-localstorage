@@ -99,39 +99,6 @@
     "first_seen": "2026-11-06T18:52:09Z"
   },
   {
-    "id": "the-wizard-s-notes",
-    "title": "The Wizard’s Notes",
-    "series_url": "https://arenascan.com/manga/the-wizard-s-notes/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2c033c2044a1.webp",
-    "latest_chapter": 7.0,
-    "latest_chapter_title": "Chapter 7",
-    "latest_chapter_url": "https://arenascan.com/the-wizard-s-notes-chapter-7/",
-    "total_chapters": 7,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
-    "id": "this-man-needs-repair",
-    "title": "This Man Needs Repair",
-    "series_url": "https://arenascan.com/manga/this-man-needs-repair/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/101c2c8ed6ba.webp",
-    "latest_chapter": 7.0,
-    "latest_chapter_title": "Chapter 7",
-    "latest_chapter_url": "https://arenascan.com/this-man-needs-repair-chapter-7/",
-    "total_chapters": 7,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
-    "id": "the-crazy-son-in-law-of-the-northern-duke",
-    "title": "The Crazy Son-in-Law of the Northern Duke",
-    "series_url": "https://arenascan.com/manga/the-crazy-son-in-law-of-the-northern-duke/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/7abca2eef0de.webp",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/the-crazy-son-in-law-of-the-northern-duke-chapter-8/",
-    "total_chapters": 9,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
     "id": "my-skill-bar-is-full-of-monsters",
     "title": "My Skill Bar Is Full of Monsters",
     "series_url": "https://arenascan.com/manga/my-skill-bar-is-full-of-monsters/",
@@ -162,6 +129,39 @@
     "latest_chapter_title": "Chapter 7",
     "latest_chapter_url": "https://arenascan.com/save-the-sunfish-princess-chapter-7/",
     "total_chapters": 8,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
+    "id": "the-wizard-s-notes",
+    "title": "The Wizard’s Notes",
+    "series_url": "https://arenascan.com/manga/the-wizard-s-notes/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2c033c2044a1.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/the-wizard-s-notes-chapter-7/",
+    "total_chapters": 7,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
+    "id": "this-man-needs-repair",
+    "title": "This Man Needs Repair",
+    "series_url": "https://arenascan.com/manga/this-man-needs-repair/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/101c2c8ed6ba.webp",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/this-man-needs-repair-chapter-7/",
+    "total_chapters": 7,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
+    "id": "the-crazy-son-in-law-of-the-northern-duke",
+    "title": "The Crazy Son-in-Law of the Northern Duke",
+    "series_url": "https://arenascan.com/manga/the-crazy-son-in-law-of-the-northern-duke/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/7abca2eef0de.webp",
+    "latest_chapter": 8.0,
+    "latest_chapter_title": "Chapter 8",
+    "latest_chapter_url": "https://arenascan.com/the-crazy-son-in-law-of-the-northern-duke-chapter-8/",
+    "total_chapters": 9,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
@@ -253,17 +253,6 @@
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
-    "id": "we-beat-the-demon-lord-so-let-s-go-home",
-    "title": "We Beat The Demon Lord So Let’s go Home",
-    "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-18-05-28-18-1787074098167.jpg",
-    "latest_chapter": 3.4,
-    "latest_chapter_title": "Chapter 3.4",
-    "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-3-4/",
-    "total_chapters": 9,
-    "first_seen": "2026-11-02T04:20:12Z"
-  },
-  {
     "id": "dog-eat-dog",
     "title": "Dog Eat Dog",
     "series_url": "https://arenascan.com/manga/dog-eat-dog/",
@@ -272,6 +261,17 @@
     "latest_chapter_title": "Chapter 8",
     "latest_chapter_url": "https://arenascan.com/dog-eat-dog-chapter-8/",
     "total_chapters": 8,
+    "first_seen": "2026-11-02T04:20:12Z"
+  },
+  {
+    "id": "we-beat-the-demon-lord-so-let-s-go-home",
+    "title": "We Beat The Demon Lord So Let’s go Home",
+    "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-18-05-28-18-1787074098167.jpg",
+    "latest_chapter": 3.4,
+    "latest_chapter_title": "Chapter 3.4",
+    "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-3-4/",
+    "total_chapters": 9,
     "first_seen": "2026-11-02T04:20:12Z"
   },
   {
