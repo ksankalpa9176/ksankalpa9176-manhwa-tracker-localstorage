@@ -99,13 +99,13 @@
     "first_seen": "2026-11-06T18:52:09Z"
   },
   {
-    "id": "my-skill-bar-is-full-of-monsters",
-    "title": "My Skill Bar Is Full of Monsters",
-    "series_url": "https://arenascan.com/manga/my-skill-bar-is-full-of-monsters/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/e766bca94523.webp",
+    "id": "my-artifact-stats-stack-infinitely",
+    "title": "My Artifact Stats Stack Infinitely",
+    "series_url": "https://arenascan.com/manga/my-artifact-stats-stack-infinitely/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/d558fe07317f.webp",
     "latest_chapter": 3.0,
     "latest_chapter_title": "Chapter 3",
-    "latest_chapter_url": "https://arenascan.com/my-skill-bar-is-full-of-monsters-chapter-3/",
+    "latest_chapter_url": "https://arenascan.com/my-artifact-stats-stack-infinitely-chapter-3/",
     "total_chapters": 3,
     "first_seen": "2026-11-03T01:59:07Z"
   },
@@ -118,6 +118,17 @@
     "latest_chapter_title": "Chapter 8",
     "latest_chapter_url": "https://arenascan.com/blade-of-the-discarded-chapter-8/",
     "total_chapters": 9,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
+    "id": "my-skill-bar-is-full-of-monsters",
+    "title": "My Skill Bar Is Full of Monsters",
+    "series_url": "https://arenascan.com/manga/my-skill-bar-is-full-of-monsters/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/e766bca94523.webp",
+    "latest_chapter": 3.0,
+    "latest_chapter_title": "Chapter 3",
+    "latest_chapter_url": "https://arenascan.com/my-skill-bar-is-full-of-monsters-chapter-3/",
+    "total_chapters": 3,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
@@ -217,17 +228,6 @@
     "latest_chapter_title": "Chapter 4",
     "latest_chapter_url": "https://arenascan.com/another-world-invasion-i-m-busy-collecting-monsters-and-signing-contracts-chapter-4/",
     "total_chapters": 4,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
-    "id": "my-artifact-stats-stack-infinitely",
-    "title": "My Artifact Stats Stack Infinitely",
-    "series_url": "https://arenascan.com/manga/my-artifact-stats-stack-infinitely/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/d558fe07317f.webp",
-    "latest_chapter": 2.0,
-    "latest_chapter_title": "Chapter 2",
-    "latest_chapter_url": "https://arenascan.com/my-artifact-stats-stack-infinitely-chapter-2/",
-    "total_chapters": 2,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
@@ -448,17 +448,6 @@
     "latest_chapter_title": "Chapter 6",
     "latest_chapter_url": "https://arenascan.com/for-psyche-chapter-6/",
     "total_chapters": 7,
-    "first_seen": "2026-10-21T23:00:25Z"
-  },
-  {
-    "id": "the-slime-s-livestream-star",
-    "title": "The Slime’s Livestream Star",
-    "series_url": "https://arenascan.com/manga/the-slime-s-livestream-star/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-19-10-11-08-1792447868646.jpg",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/the-slime-s-livestream-star-chapter-8/",
-    "total_chapters": 8,
     "first_seen": "2026-10-21T23:00:25Z"
   },
   {
