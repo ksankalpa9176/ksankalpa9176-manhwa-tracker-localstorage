@@ -1,5 +1,16 @@
 [
   {
+    "id": "the-kiss-of-that-night",
+    "title": "The Kiss of That Night",
+    "series_url": "https://arenascan.com/manga/the-kiss-of-that-night/",
+    "cover_url": "https://arenascan.com/wp-content/uploads/2025/12/83fde174-e9ec-4ad0-80a0-4c557c5dfc1e.jpg",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/the-kiss-of-that-night-chapter-7/",
+    "total_chapters": 7,
+    "first_seen": "2026-11-14T17:38:43Z"
+  },
+  {
     "id": "the-plain-lady-becomes-a-capable-empress",
     "title": "The Plain Lady Becomes a Capable Empress!",
     "series_url": "https://arenascan.com/manga/the-plain-lady-becomes-a-capable-empress/",
@@ -99,17 +110,6 @@
     "first_seen": "2026-11-06T18:52:09Z"
   },
   {
-    "id": "my-artifact-stats-stack-infinitely",
-    "title": "My Artifact Stats Stack Infinitely",
-    "series_url": "https://arenascan.com/manga/my-artifact-stats-stack-infinitely/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/d558fe07317f.webp",
-    "latest_chapter": 3.0,
-    "latest_chapter_title": "Chapter 3",
-    "latest_chapter_url": "https://arenascan.com/my-artifact-stats-stack-infinitely-chapter-3/",
-    "total_chapters": 3,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
     "id": "blade-of-the-discarded",
     "title": "Blade of the Discarded",
     "series_url": "https://arenascan.com/manga/blade-of-the-discarded/",
@@ -118,6 +118,17 @@
     "latest_chapter_title": "Chapter 8",
     "latest_chapter_url": "https://arenascan.com/blade-of-the-discarded-chapter-8/",
     "total_chapters": 9,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
+    "id": "my-artifact-stats-stack-infinitely",
+    "title": "My Artifact Stats Stack Infinitely",
+    "series_url": "https://arenascan.com/manga/my-artifact-stats-stack-infinitely/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/d558fe07317f.webp",
+    "latest_chapter": 3.0,
+    "latest_chapter_title": "Chapter 3",
+    "latest_chapter_url": "https://arenascan.com/my-artifact-stats-stack-infinitely-chapter-3/",
+    "total_chapters": 3,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
