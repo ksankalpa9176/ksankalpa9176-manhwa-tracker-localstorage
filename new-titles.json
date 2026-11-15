@@ -132,17 +132,6 @@
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
-    "id": "blade-of-the-discarded",
-    "title": "Blade of the Discarded",
-    "series_url": "https://arenascan.com/manga/blade-of-the-discarded/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/ff6eb50cb19d.webp",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/blade-of-the-discarded-chapter-8/",
-    "total_chapters": 9,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
     "id": "my-artifact-stats-stack-infinitely",
     "title": "My Artifact Stats Stack Infinitely",
     "series_url": "https://arenascan.com/manga/my-artifact-stats-stack-infinitely/",
@@ -151,6 +140,17 @@
     "latest_chapter_title": "Chapter 3",
     "latest_chapter_url": "https://arenascan.com/my-artifact-stats-stack-infinitely-chapter-3/",
     "total_chapters": 3,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
+    "id": "blade-of-the-discarded",
+    "title": "Blade of the Discarded",
+    "series_url": "https://arenascan.com/manga/blade-of-the-discarded/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/ff6eb50cb19d.webp",
+    "latest_chapter": 8.0,
+    "latest_chapter_title": "Chapter 8",
+    "latest_chapter_url": "https://arenascan.com/blade-of-the-discarded-chapter-8/",
+    "total_chapters": 9,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
