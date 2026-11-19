@@ -220,17 +220,6 @@
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
-    "id": "dog-eat-dog",
-    "title": "Dog Eat Dog",
-    "series_url": "https://arenascan.com/manga/dog-eat-dog/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-21-05-55-59-1787334959595.png",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/dog-eat-dog-chapter-9/",
-    "total_chapters": 9,
-    "first_seen": "2026-11-02T04:20:12Z"
-  },
-  {
     "id": "we-beat-the-demon-lord-so-let-s-go-home",
     "title": "We Beat The Demon Lord So Let’s go Home",
     "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
@@ -238,6 +227,17 @@
     "latest_chapter": 3.4,
     "latest_chapter_title": "Chapter 3.4",
     "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-3-4/",
+    "total_chapters": 9,
+    "first_seen": "2026-11-02T04:20:12Z"
+  },
+  {
+    "id": "dog-eat-dog",
+    "title": "Dog Eat Dog",
+    "series_url": "https://arenascan.com/manga/dog-eat-dog/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-21-05-55-59-1787334959595.png",
+    "latest_chapter": 9.0,
+    "latest_chapter_title": "Chapter 9",
+    "latest_chapter_url": "https://arenascan.com/dog-eat-dog-chapter-9/",
     "total_chapters": 9,
     "first_seen": "2026-11-02T04:20:12Z"
   },
