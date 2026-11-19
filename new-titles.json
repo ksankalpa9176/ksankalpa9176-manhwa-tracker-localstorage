@@ -165,17 +165,6 @@
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
-    "id": "blade-of-the-discarded",
-    "title": "Blade of the Discarded",
-    "series_url": "https://arenascan.com/manga/blade-of-the-discarded/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/ff6eb50cb19d.webp",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/blade-of-the-discarded-chapter-8/",
-    "total_chapters": 9,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
     "id": "my-skill-bar-is-full-of-monsters",
     "title": "My Skill Bar Is Full of Monsters",
     "series_url": "https://arenascan.com/manga/my-skill-bar-is-full-of-monsters/",
@@ -206,17 +195,6 @@
     "latest_chapter_title": "Chapter 7",
     "latest_chapter_url": "https://arenascan.com/the-wizard-s-notes-chapter-7/",
     "total_chapters": 7,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
-    "id": "the-male-lead-i-raised-is-obsessed-with-me",
-    "title": "The Male Lead I Raised Is Obsessed With Me",
-    "series_url": "https://arenascan.com/manga/the-male-lead-i-raised-is-obsessed-with-me/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/8cfe98a38ad8.webp",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/the-male-lead-i-raised-is-obsessed-with-me-chapter-8/",
-    "total_chapters": 9,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
@@ -418,17 +396,6 @@
     "first_seen": "2026-10-21T23:00:25Z"
   },
   {
-    "id": "legend-of-online-gaming",
-    "title": "Legend of Online Gaming",
-    "series_url": "https://arenascan.com/manga/legend-of-online-gaming/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-15-06-34-15-1792089255728.png",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/legend-of-online-gaming-chapter-9/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-21T23:00:25Z"
-  },
-  {
     "id": "for-psyche",
     "title": "For Psyche",
     "series_url": "https://arenascan.com/manga/for-psyche/",
@@ -460,16 +427,5 @@
     "latest_chapter_url": "https://arenascan.com/defending-the-villain-s-innocence-chapter-1/",
     "total_chapters": 1,
     "first_seen": "2026-10-21T23:00:25Z"
-  },
-  {
-    "id": "imprinted",
-    "title": "Imprinted",
-    "series_url": "https://arenascan.com/manga/imprinted/",
-    "cover_url": "https://arenascan.com/wp-content/uploads/2025/07/f739839a-a993-4521-8132-75da83dd8a14.jpg",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/imprinted-chapter-9/",
-    "total_chapters": 9,
-    "first_seen": "2026-10-19T23:17:20Z"
   }
 ]
