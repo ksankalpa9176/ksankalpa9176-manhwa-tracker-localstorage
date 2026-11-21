@@ -121,17 +121,6 @@
     "first_seen": "2026-11-06T18:52:09Z"
   },
   {
-    "id": "this-man-needs-repair",
-    "title": "This Man Needs Repair",
-    "series_url": "https://arenascan.com/manga/this-man-needs-repair/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/101c2c8ed6ba.webp",
-    "latest_chapter": 8.0,
-    "latest_chapter_title": "Chapter 8",
-    "latest_chapter_url": "https://arenascan.com/this-man-needs-repair-chapter-8/",
-    "total_chapters": 8,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
     "id": "my-skill-bar-is-full-of-monsters",
     "title": "My Skill Bar Is Full of Monsters",
     "series_url": "https://arenascan.com/manga/my-skill-bar-is-full-of-monsters/",
@@ -140,6 +129,17 @@
     "latest_chapter_title": "Chapter 4",
     "latest_chapter_url": "https://arenascan.com/my-skill-bar-is-full-of-monsters-chapter-4/",
     "total_chapters": 4,
+    "first_seen": "2026-11-03T01:59:07Z"
+  },
+  {
+    "id": "this-man-needs-repair",
+    "title": "This Man Needs Repair",
+    "series_url": "https://arenascan.com/manga/this-man-needs-repair/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/101c2c8ed6ba.webp",
+    "latest_chapter": 8.0,
+    "latest_chapter_title": "Chapter 8",
+    "latest_chapter_url": "https://arenascan.com/this-man-needs-repair-chapter-8/",
+    "total_chapters": 8,
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
@@ -350,27 +350,5 @@
     "latest_chapter_url": "https://arenascan.com/nine-star-hegemon-body-technique-chapter-4/",
     "total_chapters": 5,
     "first_seen": "2026-10-30T04:18:44Z"
-  },
-  {
-    "id": "i-want-you-to-be-happy",
-    "title": "I Want You to be Happy",
-    "series_url": "https://arenascan.com/manga/i-want-you-to-be-happy/",
-    "cover_url": "https://arenascan.com/wp-content/uploads/2025/07/791ab3e9-95c5-4e2d-ae90-0088fa8e494a.jpg",
-    "latest_chapter": 1.0,
-    "latest_chapter_title": "Chapter 1",
-    "latest_chapter_url": "https://arenascan.com/i-want-you-to-be-happy-chapter-1/",
-    "total_chapters": 2,
-    "first_seen": "2026-10-22T03:14:04Z"
-  },
-  {
-    "id": "in-honor-of-you-who-survived",
-    "title": "In Honor of You Who Survived",
-    "series_url": "https://arenascan.com/manga/in-honor-of-you-who-survived/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-21-06-55-19-1792608919880.jpg",
-    "latest_chapter": 6.0,
-    "latest_chapter_title": "Chapter 6",
-    "latest_chapter_url": "https://arenascan.com/in-honor-of-you-who-survived-chapter-6/",
-    "total_chapters": 6,
-    "first_seen": "2026-10-22T03:14:04Z"
   }
 ]
