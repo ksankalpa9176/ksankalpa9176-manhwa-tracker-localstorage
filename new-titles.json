@@ -1,5 +1,16 @@
 [
   {
+    "id": "for-psyche",
+    "title": "For Psyche",
+    "series_url": "https://arenascan.com/manga/for-psyche/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-10-15-08-00-07-1792094407085.jpg",
+    "latest_chapter": 7.0,
+    "latest_chapter_title": "Chapter 7",
+    "latest_chapter_url": "https://arenascan.com/for-psyche-chapter-7/",
+    "total_chapters": 8,
+    "first_seen": "2026-11-27T02:38:45Z"
+  },
+  {
     "id": "don-t-pretend-it-s-the-first-time",
     "title": "Don’t Pretend It’s the First Time",
     "series_url": "https://arenascan.com/manga/don-t-pretend-it-s-the-first-time/",
@@ -110,17 +121,6 @@
     "first_seen": "2026-11-11T04:38:58Z"
   },
   {
-    "id": "cyberpunk-chivalry",
-    "title": "Cyberpunk Chivalry",
-    "series_url": "https://arenascan.com/manga/cyberpunk-chivalry/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-11-05-02-39-49-1793889589705.webp",
-    "latest_chapter": 9.0,
-    "latest_chapter_title": "Chapter 9",
-    "latest_chapter_url": "https://arenascan.com/cyberpunk-chivalry-chapter-9/",
-    "total_chapters": 9,
-    "first_seen": "2026-11-10T21:38:26Z"
-  },
-  {
     "id": "the-executed-villainess-rewinds-time-to-take-her-revenge",
     "title": "The Executed Villainess Rewinds Time to Take Her Revenge",
     "series_url": "https://arenascan.com/manga/the-executed-villainess-rewinds-time-to-take-her-revenge/",
@@ -152,6 +152,17 @@
     "latest_chapter_url": "https://arenascan.com/the-cursed-villainess-bought-as-a-toy-i-became-the-perfect-prince-s-one-and-only-obsession-chapter-3-1/",
     "total_chapters": 4,
     "first_seen": "2026-11-06T18:52:09Z"
+  },
+  {
+    "id": "my-skill-bar-is-full-of-monsters",
+    "title": "My Skill Bar Is Full of Monsters",
+    "series_url": "https://arenascan.com/manga/my-skill-bar-is-full-of-monsters/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/e766bca94523.webp",
+    "latest_chapter": 5.0,
+    "latest_chapter_title": "Chapter 5",
+    "latest_chapter_url": "https://arenascan.com/my-skill-bar-is-full-of-monsters-chapter-5/",
+    "total_chapters": 5,
+    "first_seen": "2026-11-03T01:59:07Z"
   },
   {
     "id": "this-man-needs-repair",
@@ -198,17 +209,6 @@
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
-    "id": "my-skill-bar-is-full-of-monsters",
-    "title": "My Skill Bar Is Full of Monsters",
-    "series_url": "https://arenascan.com/manga/my-skill-bar-is-full-of-monsters/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/e766bca94523.webp",
-    "latest_chapter": 4.0,
-    "latest_chapter_title": "Chapter 4",
-    "latest_chapter_url": "https://arenascan.com/my-skill-bar-is-full-of-monsters-chapter-4/",
-    "total_chapters": 4,
-    "first_seen": "2026-11-03T01:59:07Z"
-  },
-  {
     "id": "my-artifact-stats-stack-infinitely",
     "title": "My Artifact Stats Stack Infinitely",
     "series_url": "https://arenascan.com/manga/my-artifact-stats-stack-infinitely/",
@@ -242,17 +242,6 @@
     "first_seen": "2026-11-03T01:59:07Z"
   },
   {
-    "id": "we-beat-the-demon-lord-so-let-s-go-home",
-    "title": "We Beat The Demon Lord So Let’s go Home",
-    "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
-    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-18-05-28-18-1787074098167.jpg",
-    "latest_chapter": 3.4,
-    "latest_chapter_title": "Chapter 3.4",
-    "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-3-4/",
-    "total_chapters": 9,
-    "first_seen": "2026-11-02T04:20:12Z"
-  },
-  {
     "id": "dog-eat-dog",
     "title": "Dog Eat Dog",
     "series_url": "https://arenascan.com/manga/dog-eat-dog/",
@@ -260,6 +249,17 @@
     "latest_chapter": 9.0,
     "latest_chapter_title": "Chapter 9",
     "latest_chapter_url": "https://arenascan.com/dog-eat-dog-chapter-9/",
+    "total_chapters": 9,
+    "first_seen": "2026-11-02T04:20:12Z"
+  },
+  {
+    "id": "we-beat-the-demon-lord-so-let-s-go-home",
+    "title": "We Beat The Demon Lord So Let’s go Home",
+    "series_url": "https://arenascan.com/manga/we-beat-the-demon-lord-so-let-s-go-home/",
+    "cover_url": "https://cdn.arenascan.com/arena-bucket/images/2026-08-18-05-28-18-1787074098167.jpg",
+    "latest_chapter": 3.4,
+    "latest_chapter_title": "Chapter 3.4",
+    "latest_chapter_url": "https://arenascan.com/we-beat-the-demon-lord-so-let-s-go-home-chapter-3-4/",
     "total_chapters": 9,
     "first_seen": "2026-11-02T04:20:12Z"
   },
